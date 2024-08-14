@@ -41,5 +41,5 @@ g j z [tx] z [rx] x z
 j k z [rc] k z [rc] x Z z
 c v c [ux] y x v x [tl]
 l x l [EJ] J l J [qj] J
-l z x [tl] z x c v [qsj]
+l z x [tl] z x c v [qsj]
 ```
