@@ -34,7 +34,7 @@ i p i [qu] i p u [9y]
 y i y [8t] y [7p]
 o y p o i [7y]
 i o i [0u] 9 u o u [8t]
-t u t [E^] E t E 4
+t u t [E6] E t E 4
 e E t y u 8 t y u
 g j g [if] g j f [yd]
 g j z [tx] z [rx] x z
