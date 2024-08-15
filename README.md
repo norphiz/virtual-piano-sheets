@@ -43,3 +43,26 @@ c v c [ux] y x v x [tl]
 l x l [EJ] J l J [qj] J
 l z x [tl] z x c v [qsj]
 ```
+
+## Scott Joplin - The Entertainer
+```
+[yz] x l j k h
+[9y] u t e r w
+[29] 0 8 6 7 6 %
+[15] [5o] 9 ( [10] t 0 [wt]
+0 t 4 3 t y Y [1u] t y u 5 r y
+[8t] 5 6 [79] ( [10] t 0 [5t]
+0 t 4 3 e w Q e t u 6 y t e
+[5y] 4 3 [29] ( [10] t 0
+[5t] 0 t 4 3 t y Y
+[1u] t y u 5 r y
+[1t] 5 6 [79] ( [10] t 0 [5t]
+0 t 4 3 t y Y [1u] t y u 5 r y
+[8t] 5 6 [79] ( [10] t 0 [5t]
+0 t 4 3 e w [2Q] e t u y 6 y t e
+[5y] 4 3 [29] ( [10] t 0 [5t]
+0 t 4 3 t y Y [1u] t y u 5 r y [1t]
+5 6 [7t] y [8u] t y u ¨
+t y t [6u] t y u % t y t
+[8u] t y u 5 r y [8t] 5 1
+```
