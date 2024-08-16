@@ -1,4 +1,8 @@
-# virtual-piano-sheets
+# Table of Contents
+
+- [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
+- [Michael Giacchino - Married Life](#michael-giacchino---married-life)
+- [Scott Joplin - The Entertainer](#scott-joplin---the-entertainer)
 
 ## Go Ichinose - Pokémon League (Day)
 ```
