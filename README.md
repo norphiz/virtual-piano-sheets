@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
+- [J. S. Bach - Jesu, Joy of Man's Desiring](#j-s-bach---jesu-joy-of-mans-desiring)
 - [Michael Giacchino - Married Life](#michael-giacchino---married-life)
 - [Scott Joplin - The Entertainer](#scott-joplin---the-entertainer)
 
@@ -30,6 +31,40 @@ q 8 [4s] 8 [4s]
 8 5 [1h] 5 [4s] [8i] [qp] [8j]
 q 8 [4s] 8 [4s]
 8 q W t i O s c V m n c l H g s O
+```
+
+## J. S. Bach - Jesu, Joy of Man's Desiring
+```
+5 o p [5a] d s [3s]
+f d [7d] h G [3h]
+d a [3o] p a [6s]
+d f [7d] s a [8p]
+a o [9I] o p [Qy]
+I p [9s] a p [wa]
+o p [0a] d s [8s]
+f d [7d] h G [0h]
+d a [0o] p a [8u]
+d s [*a] p o [9y]
+o I [5o] a d h d a
+o a d [5a] Q [0s] [Qd]
+0 [9d] [0s] Q [wa] [9p]
+y u [9I] p o [9p]
+s a [9s] p I [9y]
+I p [9s] a p [wa]
+o p [Qa] d s [0s]
+f d [7d] h G h d a [0o]
+p a [8u] d s [9a]
+p o [9y] o I [wo]
+a p [wa] d s [0s]
+f d [7d] h G [0h]
+d a [0o] p a [6s]
+d f [7d] s a [8p]
+a o [9I] o p [Qy]
+I p [9s] a p [wa]
+o p [0a] f d [7d]
+h G [0h] d a [9o]
+p a [8u] d s [*a]
+p o [9y] o I [5o]
 ```
 
 ## Michael Giacchino - Married Life
