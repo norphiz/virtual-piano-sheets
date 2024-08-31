@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
+- [Motoi Sakuraba - Gwyn, Lord of Cinder](#motoi-sakuraba---gwyn-lord-of-cinder)
 - [Scott Joplin - The Entertainer](#scott-joplin---the-entertainer)
 
 ## Go Ichinose - Pokémon League (Day)
@@ -29,6 +30,42 @@ q 8 [4s] 8 [4s]
 8 5 [1h] 5 [4s] [8i] [qp] [8j]
 q 8 [4s] 8 [4s]
 8 q W t i O s c V m n c l H g s O
+```
+
+## Motoi Sakuraba - Gwyn, Lord of Cinder
+```
+6 0 [ex] r [tz] r
+[6j] 0 [ei] r [ti] r
+[6i] [0r] [ex] r [tz] r
+[6v] 0 [ei] r [tc] r
+[6x] 0 [eo] t [yo] t
+[6o] [0t] [eo] t [yo] t
+[6o] [0t] [eo] t [yo] t
+[6o] [0t] [eo] t [yo] t
+[6i] [0r] [ex] r [tz] r
+[6j] 0 [ei] r [ti] r
+[6i] [0r] [ex] r [tz] r
+[6v] 0 [ei] r [tc] r
+[6x] 0 [eo] t [yo] t
+[6o] [0t] [eo] t [yo] t
+[6x] 0 [ep] y [up] y
+[6p] [0y] [ep] y [uj] y
+[6x] 0 [ea] u [ia] u
+[6x] 0 [ec] u [iv] u
+[6x] d [0u] [ed] u [id] u
+[6s] [0u] [ez] u [il] u
+[6k] a [0u] [ea] u [ia] u
+[6a] [0u] [ea] u [is] u
+[6d] [0u] [ed] u [id] u
+[6f] [0u] [ef] u [if] u
+[6x] 0 [ef] u [if] u
+[6x] [0u] [ec] u [iv] u
+[6x] [0u] [ed] u [id] u
+[6a] [0u] [ec] u [iv] u
+[6b] 0 [es] u [is] u
+[6b] 0 [ev] u [ic] u
+[6x] 0 [ea] u [ia] u
+[6i] [0r] [ei] r [ti] r
 ```
 
 ## Scott Joplin - The Entertainer
