@@ -2,6 +2,7 @@
 
 - [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
 - [Motoi Sakuraba - Gwyn, Lord of Cinder](#motoi-sakuraba---gwyn-lord-of-cinder)
+- [Masato Nakamura - Green Hill Zone](#masato-nakamura---green-hill-zone)
 - [Scott Joplin - The Entertainer](#scott-joplin---the-entertainer)
 
 ## Go Ichinose - Pokémon League (Day)
@@ -66,6 +67,21 @@ q 8 [4s] 8 [4s]
 [6b] 0 [ev] u [ic] u
 [6x] 0 [ea] u [ia] u
 [6i] [0r] [ei] r [ti] r
+```
+
+## Masato Nakamura - Green Hill Zone
+```
+[toa] [ip] [oa] t
+[ip] [oa] [ip]
+[tps] [oa] [ip]
+t e E r
+[tip] [oa] [ps]
+[tip] [oa] [ps]
+[tps] [oa] t r e w
+q s p s [0wa] s a o
+[qe] o f d s [0wa] s a o
+[qe] s p s [0wa] s a o
+[9q] p p i p [80o] p o t [80w]
 ```
 
 ## Scott Joplin - The Entertainer
