@@ -4,6 +4,7 @@
 - [Motoi Sakuraba - Gwyn, Lord of Cinder](#motoi-sakuraba---gwyn-lord-of-cinder)
 - [Masato Nakamura - Green Hill Zone](#masato-nakamura---green-hill-zone)
 - [Scott Joplin - The Entertainer](#scott-joplin---the-entertainer)
+- [Toby Fox - Once Upon a Time](#toby-fox---once-upon-a-time)
 
 ## Go Ichinose - Pokémon League (Day)
 ```
@@ -102,7 +103,31 @@ q s p s [0wa] s a o
 0 t 4 3 e w [2Q] e t u y 6 y t e
 [5y] 4 3 [29] ( [10] t 0 [5t]
 0 t 4 3 t y Y [1u] t y u 5 r y [1t]
-5 6 [7t] y [8u] t y u ¨
+5 6 [7t] y [8u] t y u ^
 t y t [6u] t y u % t y t
 [8u] t y u 5 r y [8t] 5 1
+```
+
+## Toby Fox - Once Upon a Time
+```
+[4t] s [6o] [%i] s [5t]
+[4t] i [6s] d [%s] o [5i]
+[4t] s [6o] [%i] s [5t]
+[4t] i [6s] d [%s] o [5i]
+E r [^t] q [ws] [qp] [^o]
+[qi] [wu] [qi] [6o] q [wf]
+q D d [%s] q w q [5y]
+q [ws] [qp] [8o] [qi]
+[wo] [qp] [6u] q [wo]
+q [9o] [qi] [8u] [8o] [^t]
+q [ws] [qp] [^o] [qi] [wu] [qi]
+[6o] q [wf] D d [%s] q w q
+[5y] q [ws] [qp] [8o] [qi]
+[wo] [qp] [6u] q [wo] q [9o]
+[qi] [18u] [8i] [il] g h g
+[oa] g h g [EP] g h J [ij]
+h g s [il] g h g [oa] g h g
+[EP] g h J [ij] h g s l g h g
+a g h g P g h J j h g s l g h g
+a g h g P g h J j h g s
 ```
