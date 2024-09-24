@@ -2,6 +2,7 @@
 
 - [Frédéric Chopin - Waltz in A minor, B. 150, Op. Posth](#frédéric-chopin---waltz-in-a-minor-b-150-op-posth)
 - [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
+- [Go Ichinose - Verdanturf Town](#go-ichinose---verdanturf-town)
 - [Motoi Sakuraba - Gwyn, Lord of Cinder](#motoi-sakuraba---gwyn-lord-of-cinder)
 - [Masato Nakamura - Green Hill Zone](#masato-nakamura---green-hill-zone)
 - [Scott Joplin - The Entertainer](#scott-joplin---the-entertainer)
@@ -45,6 +46,24 @@ q 8 [4s] 8 [4s]
 8 5 [1h] 5 [4s] [8i] [qp] [8j]
 q 8 [4s] 8 [4s]
 8 q W t i O s c V m n c l H g s O
+```
+
+## Go Ichinose - Verdanturf Town
+```
+o s d [8f] w u [wg] [0d] r o [rf] [ea]
+u w [us] [wp] [ua] [qs] a [us] d [qj]
+t s p t 9 e i [ef] [wd] [us] [9a] [up]
+[wa] [qs] [9l] k [7l] z [1x] 5 0 [5c]
+[3z] 7 w [7x] [6l] k [0j] k [5l] [0j]
+5 h [0j] k [4l] z [0x] l [4b] 8 [el]
+8 2 6 q [5z] [ql] [2k] [qj] [wk] [ql]
+[9g] f [7g] h [4j] 8 e [sf] [1d] 5 [9f]
+[4g] [3h] 7 w [sf] [6s] [us] [5d] [of]
+[4g] 8 e [dg] [5h] g [0f] [5d] [6g]
+q t j [1f] 5 8 f g h [4j] 8 e [gj]
+[7k] [wl] [yz] k [fh] 3 7 0 f [6j]
+[0h] [eg] [0f] [2f] [6g] [8s]
+q 8 [6p] [8s] [5f] [sg] [9g] s a s d
 ```
 
 ## Motoi Sakuraba - Gwyn, Lord of Cinder
