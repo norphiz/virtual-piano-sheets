@@ -1,14 +1,12 @@
 # Table of Contents
 
-- [Frédéric Chopin - Waltz in A minor, B. 150, Op. Posth](#frédéric-chopin---waltz-in-a-minor-b-150-op-posth)
-- [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
-- [Go Ichinose - Verdanturf Town](#go-ichinose---verdanturf-town)
-- [Motoi Sakuraba - Gwyn, Lord of Cinder](#motoi-sakuraba---gwyn-lord-of-cinder)
-- [Masato Nakamura - Green Hill Zone](#masato-nakamura---green-hill-zone)
-- [Scott Joplin - The Entertainer](#scott-joplin---the-entertainer)
-- [Toby Fox - Once Upon a Time](#toby-fox---once-upon-a-time)
+- [F. Chopin - Waltz in A minor, B. 150, Op. Posth](#f-chopin---waltz-in-a-minor-b-150-op-posth)
+- [G. Ichinose - Pokémon League (Day)](#g-ichinose---pokémon-league-day)
+- [G. Ichinose - Verdanturf Town](#g-ichinose---verdanturf-town)
+- [M. Nakamura - Green Hill Zone](#m-nakamura---green-hill-zone)
+- [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
 
-## Frédéric Chopin - Waltz in A minor, B. 150, Op. Posth
+## F. Chopin - Waltz in A minor, B. 150, Op. Posth
 ```
 u [6p] a [es] [es] [2d] f [eg] [ei]
 [5a] s [wd] j [wh] g [8f] D [wf] [wu]
@@ -20,7 +18,7 @@ u [6p] a [es] [es] [2d] f [eg] [ei]
 [5j] H j [wz] g [8f] [wtu] [wtu]
 ```
 
-## Go Ichinose - Pokémon League (Day)
+## G. Ichinose - Pokémon League (Day)
 ```
 [4h] 8 e s [2h] 6 q s
 a f D [3d] 7 w a k 6 0
@@ -48,7 +46,7 @@ q 8 [4s] 8 [4s]
 8 q W t i O s c V m n c l H g s O
 ```
 
-## Go Ichinose - Verdanturf Town
+## G. Ichinose - Verdanturf Town
 ```
 o s d [8f] w u [wg] [0d] r o [rf] [ea]
 u w [us] [wp] [ua] [qs] a [us] d [qj]
@@ -68,43 +66,7 @@ g [0f] [5d] [6g] q t j [1f]
 q 8 [6p] [8s] [5f] [tg] [9g] s a s d
 ```
 
-## Motoi Sakuraba - Gwyn, Lord of Cinder
-```
-6 0 [ex] r [tz] r
-[6j] 0 [ei] r [ti] r
-[6i] [0r] [ex] r [tz] r
-[6v] 0 [ei] r [tc] r
-[6x] 0 [eo] t [yo] t
-[6o] [0t] [eo] t [yo] t
-[6o] [0t] [eo] t [yo] t
-[6o] [0t] [eo] t [yo] t
-[6i] [0r] [ex] r [tz] r
-[6j] 0 [ei] r [ti] r
-[6i] [0r] [ex] r [tz] r
-[6v] 0 [ei] r [tc] r
-[6x] 0 [eo] t [yo] t
-[6o] [0t] [eo] t [yo] t
-[6x] 0 [ep] y [up] y
-[6p] [0y] [ep] y [uj] y
-[6x] 0 [ea] u [ia] u
-[6x] 0 [ec] u [iv] u
-[6x] d [0u] [ed] u [id] u
-[6s] [0u] [ez] u [il] u
-[6k] a [0u] [ea] u [ia] u
-[6a] [0u] [ea] u [is] u
-[6d] [0u] [ed] u [id] u
-[6f] [0u] [ef] u [if] u
-[6x] 0 [ef] u [if] u
-[6x] [0u] [ec] u [iv] u
-[6x] [0u] [ed] u [id] u
-[6a] [0u] [ec] u [iv] u
-[6b] 0 [es] u [is] u
-[6b] 0 [ev] u [ic] u
-[6x] 0 [ea] u [ia] u
-[6i] [0r] [ei] r [ti] r
-```
-
-## Masato Nakamura - Green Hill Zone
+## M. Nakamura - Green Hill Zone
 ```
 [toa] [ip] [oa] t
 [ip] [oa] [ip]
@@ -119,29 +81,7 @@ q s p s [0wa] s a o
 [9q] p p i p [80o] p o t [80w]
 ```
 
-## Scott Joplin - The Entertainer
-```
-[yz] x l j k h
-[9y] u t e r w
-[29] 0 8 6 7 6 %
-[15] [5o] 9 ( [10] t 0 [wt]
-0 t 4 3 t y Y [1u] t y u 5 r y
-[8t] 5 6 [79] ( [10] t 0 [5t]
-0 t 4 3 e w Q e t u 6 y t e
-[5y] 4 3 [29] ( [10] t 0 [5t]
-0 t 4 3 t y Y [1u] t y u 5 r y
-[1t] 5 6 [79] ( [10] t 0 [5t]
-0 t 4 3 t y Y [1u] t y u 5 r y
-[8t] 5 6 [79] ( [10] t 0 [5t]
-0 t 4 3 e w [2Q] e t u y 6 y t e
-[5y] 4 3 [29] ( [10] t 0 [5t]
-0 t 4 3 t y Y [1u] t y u 5 r y
-[1t] 5 6 [7t] y [8u] t y u ^
-t y t [6u] t y u % t y t
-[8u] t y u 5 r y [8t] 5 1
-```
-
-## Toby Fox - Once Upon a Time
+## T. Fox - Once Upon a Time
 ```
 [4t] s [6o] [%i] s [5t]
 [4t] i [6s] d [%s] o [5i]
