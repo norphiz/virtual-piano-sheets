@@ -1,10 +1,23 @@
 # Table of Contents
 
+- [C418 - Sweden](#c418---sweden)
 - [F. Chopin - Waltz in A minor, B. 150, Op. Posth](#f-chopin---waltz-in-a-minor-b-150-op-posth)
 - [G. Ichinose - Pokémon League (Day)](#g-ichinose---pokémon-league-day)
 - [G. Ichinose - Verdanturf Town](#g-ichinose---verdanturf-town)
 - [M. Nakamura - Green Hill Zone](#m-nakamura---green-hill-zone)
 - [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
+
+## C418 - Sweden
+```
+Transposition +2
+
+[29q] 3 [4wt] 6 [50w] 4 [1ry]
+[29qe] 3 [4wtu] 6 [50wr] 4 [1wry]
+[29qe] 3 [4wtu] 6 [50wr] 4 [1wry]
+[29qe] [3o] p [4wtu] 6 t y [50wr]
+4 u o [1wry] [29qe] s [3p] o [4wtu]
+6 t y [50wr] 4 o u [1wry]
+```
 
 ## F. Chopin - Waltz in A minor, B. 150, Op. Posth
 ```
@@ -48,22 +61,29 @@ q 8 [4s] 8 [4s]
 
 ## G. Ichinose - Verdanturf Town
 ```
-o s d [8f] w u [wg] [0d] r o [rf] [ea]
-u w [us] [wp] [ua] [qs] a [us] d [qj]
-t s p t 9 e i [ef] [wd] [us] [9a] [up]
-[wa] [qs] [9s] a [7s] d [1f] 5 0 [5g]
-[3d] 7 w [7f] [6s] a [0p] a [5s] [0p]
-5 o [0p] a [4s] d [0f] s [4j]
-8 s e 8 2 6 q [6f] [5d] [qs]
-[2a] [qp] [wa] [qs] [9g]
-f [7g] h [4j] 8 e [tf] [1d]
-5 [9f] [4g] [3h] 7 w [tf] [6s]
-[us] [5d] [of] [4g] 8 e [yg] [5h]
-g [0f] [5d] [6g] q t j [1f]
-5 8 f g h [4j] 8 e [ij] [7k]
-[wl] [yz] k [uh] 3 7 0 f [6j]
-[0h] [eg] [0f] [2f] [6g] [8s]
-q 8 [6p] [8s] [5f] [tg] [9g] s a s d
+Transposition +2
+
+o s d [8f] w u [wg] [0d]
+r o [rf] [ea] u W [us] [wp]
+[ua] d [qs] a [us] d [qj]
+t s p t 9 e I [ef] [wd]
+[is] [9a] [ip] [wa] [qs]
+d [9s] a [7s] d [1f]
+5 0 [5g] f [3d] 7 w [7f]
+d [6s] a [0p] a [5s] [0p]
+5 O [0p] a [4s] d [0f]
+s [4j] 8 d s e 8 2 6 Q
+[6f] [5d] [qs] [2a] [qp]
+[wa] [qs] h [8g] f [7g]
+h [4j] 8 e [8f] [7d]
+4 [9f] [4g] [3h] 7 w
+[7f] [6s] s [5d] f [4g]
+8 e [9g] [5h] g [9f] [6d]
+[6g] q t h [1f] 8 e f g h
+[4j] 8 y [0j] [7k] [ql] [yz]
+k h 3 7 0 f [6j] [0h] [eg]
+[0f] [2g] [6h] [8s] q 8 [6p]
+[8s] [5f] [8g] [8g] d s a s d
 ```
 
 ## M. Nakamura - Green Hill Zone
