@@ -4,6 +4,7 @@
 - [F. Chopin - Waltz in A minor, B. 150, Op. Posth](#f-chopin---waltz-in-a-minor-b-150-op-posth)
 - [G. Ichinose - Pokémon League (Day)](#g-ichinose---pokémon-league-day)
 - [G. Ichinose - Verdanturf Town](#g-ichinose---verdanturf-town)
+- [G. Ichinose - Canalave City (Day)](#g-ichinose---pokémon-league-day)
 - [M. Nakamura - Green Hill Zone](#m-nakamura---green-hill-zone)
 - [S. Kageyama - Farewell](#s-kageyama---farewell)
 - [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
@@ -109,6 +110,38 @@ h [4j] 8 e [8f] [7d]
 k h 3 7 0 f [6j] [0h] [eg]
 [0f] [2g] [6h] [8s] q 8 [6p]
 [8s] [5f] [8g] [8g] d s a s d
+```
+
+## G. Ichinose - Canalave City (Day)
+```
+Transposition -3
+
+5 8 w t y u t y w
+8 w t y u [to] [ys] [wd]
+[8f] w [td] [yf] u t [yg] w
+[0h] r u I o u [if] [rg]
+[9h] e y [uh] [ij] y [uf] e
+[9h] e [yg] u [if] y [uh] e
+[qg] [ts] [ig] [oh] O i [og] t
+[8f] w t [yl] u t y w
+[9d] e y [il] y [ud] e
+[5s] [9a] [wp] [ea]
+[to] [wo] [rh] [9g]
+[8f] w [td] [yf] u t [yg] w
+[0h] r u I o u [if] [rg]
+[9d] e y [uk] i [yl] u [ed]
+[5s] 9 w [ea] p [ra] w e 9
+[6l] ( W E t [ez] [EJ] H w
+[@J] ^ ( q w ( [qa] [7h]
+[%H] ( W E t [WJ] l [EJ] H ( g
+[3h] H ^ j [(J] [QL] W ( [QJ] [7k]
+[3l] ^ ( q w [0c] v [qc] Z [7z] c
+[@Z] ^ ( q w ( [QZ] z [7l] z
+[%Z] ( W t ^ q [TZ] z [yl] z
+[*Z] w J [TJ] y Y t y [wl] z
+[*Z] w t [yz] Z [uc] t y [wz] J
+[8z] w l t y u t y w
+8 w t y u t y w
 ```
 
 ## M. Nakamura - Green Hill Zone
