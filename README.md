@@ -5,6 +5,7 @@
 - [G. Ichinose - Pokémon League (Day)](#g-ichinose---pokémon-league-day)
 - [G. Ichinose - Verdanturf Town](#g-ichinose---verdanturf-town)
 - [G. Ichinose - Canalave City (Day)](#g-ichinose---pokémon-league-day)
+- [J. S. Bach - Jesu, Joy of Man's Desiring (BWV 147)](#j-s-bach---jesu-joy-of-mans-desiring-bwv-147)
 - [M. Nakamura - Green Hill Zone](#m-nakamura---green-hill-zone)
 - [S. Kageyama - Farewell](#s-kageyama---farewell)
 - [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
@@ -148,6 +149,24 @@ Transposition -3
 [*Z] w t [yz] Z [uc] t y [wz] J
 [8z] w l t y u t y w
 8 w t y u t y w
+```
+
+## J. S. Bach - Jesu, Joy of Man's Desiring (BWV 147)
+```
+Transposition -5
+
+[18] s d [8f] h g [6g] j h
+[3h] l k [6l] h f [6s] d f
+[2g] h j [3h] g f [4d] f s
+[5a] s d [7o] a d [5g] f d
+[8f] s d [6f] h g [4g] j h
+[3h] l k [6l] h f [5s] d f
+[4p] h g [4f] d s [5o] s a
+[1s] f h l h [tf] [ws] f [0h]
+[8l] [7r] [6g] [7h] [6s]
+[5h] [6g] [7d] [8f] [5d]
+o p [wa] d [ws] [wd] g [wf]
+[5g] d a [ro] a [wd] [wg] f [5d]
 ```
 
 ## M. Nakamura - Green Hill Zone
