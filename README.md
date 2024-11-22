@@ -2,6 +2,7 @@
 
 - [C418 - Sweden](#c418---sweden)
 - [F. Chopin - Waltz in A minor, B. 150, Op. Posth](#f-chopin---waltz-in-a-minor-b-150-op-posth)
+- [FKJ - Ylang Ylang](#fkj---ylang-ylang)
 - [G. Ichinose - Pokémon League (Day)](#g-ichinose---pokémon-league-day)
 - [G. Ichinose - Verdanturf Town](#g-ichinose---verdanturf-town)
 - [G. Ichinose - Canalave City (Day)](#g-ichinose---pokémon-league-day)
@@ -38,6 +39,21 @@ u [6p] a [es] [es] [2d] f [eg] [ei]
 [5a] s [wd] j [wh] g [8f] D [wf] [wu]
 [6s] d [ef] [ef] [2g] h [ej] [ei]
 [5j] H j [wz] g [8f] [wtu] [wtu]
+```
+
+## FKJ - Ylang Ylang
+```
+Transposition +1
+
+[qx] [ex] [qz] [ey] [qx] [jb]
+[ef] D [qd] [ed] D f [8a] [0a] [8p]
+[0e] u o a d [8a] d [0a] f [8p] [0e] p a d f
+[qf] [ex] [qz] [ey] s d [qx] [hv] [eu]
+[jb] f [qz] [ed] D f [8a] [0d] [8p]
+[0e] f h k z [8k] z k x [8j] [4x] [eu] [4z] [ey]
+[4x] [jv] [ef] D [4d] [ed] D f [1a] [0r] [ak] [8p]
+[0e] u o a d [1a] d [8a] f [0p] p a d f [4f] [qx] [qz] [ey]
+[4x] [jb] q llllll [ez] [qd] D f [1a] [0r] [8p] [0e] u o a d [8a] d a f p
 ```
 
 ## G. Ichinose - Pokémon League (Day)
