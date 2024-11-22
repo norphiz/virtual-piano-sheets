@@ -51,9 +51,10 @@ Transposition +1
 [qf] [ex] [qz] [ey] s d [qx] [hv] [eu]
 [jb] f [qz] [ed] D f [8a] [0d] [8p]
 [0e] f h k z [8k] z k x [8j] [4x] [eu] [4z] [ey]
-[4x] [jv] [ef] D [4d] [ed] D f [1a] [0r] [ak] [8p]
+[4x] [jb] [ef] D [4d] [ed] D f [1a] [0r] [ak] [8p]
 [0e] u o a d [1a] d [8a] f [0p] p a d f [4f] [qx] [qz] [ey]
-[4x] [jb] q llllll [ez] [qd] D f [1a] [0r] [8p] [0e] u o a d [8a] d a f p
+[4x] [jb] q llllll [ez] [qd] D f [1a] [0r] [8p]
+[0e] u o a d [8a] d a f p
 ```
 
 ## G. Ichinose - Pokémon League (Day)
