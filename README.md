@@ -9,6 +9,7 @@
 - [J. S. Bach - Jesu, Joy of Man's Desiring (BWV 147)](#j-s-bach---jesu-joy-of-mans-desiring-bwv-147)
 - [M. Nakamura - Green Hill Zone](#m-nakamura---green-hill-zone)
 - [S. Kageyama - Farewell](#s-kageyama---farewell)
+- [S. Kageyama - An Unwavering Heart](#s-kageyama---an-unwavering-heart)
 - [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
 
 ## C418 - Sweden
@@ -239,6 +240,18 @@ Transposition +3
 [pj] k l [0hx] t u [ofl]
 [9ei] 6 q [ep] s g [5us] ( W i o s
 [9is] W T i o s [8us] w t u o s [8sfhl]
+```
+
+## S. Kageyama - An Unwavering Heart
+```
+Transposition -3
+
+[isj] x v [osj] x v [uaj] v b [pfx]
+[ofx] z l k [isj] x v [osj] x v [uaj] z l k
+[psh] f d s a [qop] t i f h q [wyp] [yo] f h y o d
+[0yp] r y [ah] [sj] 0 [eof] u o a [wof] d [us] a
+[9ip] e t e [yip] [eid] [0ya] r y o [oa] r [yod]
+[qts] t i e t i p s [wys] a k l [psl] [odk] h [idj]
 ```
 
 ## T. Fox - Once Upon a Time
