@@ -14,17 +14,16 @@
 Transposition +2
 
 [29q] 3 [4wt] 6 [50w] 4 [1ry]
-[29qe] 3 [4wtu] 6 [50wr] 4 [1wry]
-[29qe] 3 [4wtu] 6 [50wr] 4 [1wry]
-[29qe] [3o] p [4wtu] 6 t y [50wr] 4 u o [1wry]
-[29qe] s [3p] o [4wtu] 6 t y [50wr] 4 o u [1wry]
-[29qe] [3o] p [4wts] 6 [tf] [yd] [50wa] 4 [us] a [1wro]
-[29qe] [3p] o [4wtu] 6 t y [50wr] 4 u o [1wry]
-[29qe] [3o] p [4wtu] 6 t y [50wr] 4 u o [1wry]
-[29qe] [3o] p [4wts] 6 s d [50wa] [4f] u o [1wry]
-[6wtu] p o [29ei] y t [59wr] t y [38qe]
-[6tus] p o [29ei] y [td]
-[5rya] s [td] y [4etp]
+[29e] 3 [4wu] 6 [50r] 4 [1wy]
+[29e] 3 [4wu] 6 [50r] 4 [1wy]
+[29e] [3o] p [4wu] 6 t y [50r] 4 u o [1wy]
+[29e] s [3p] o [4wu] 6 t y [50r] 4 o u [1wy]
+[29e] [3o] p [4ws] 6 [tf] [yd] [50a] 4 [us] a [1wo]
+[29e] [3p] o [4wu] 6 t y [50r] 4 u o [1wy]
+[29e] [3o] p [4wu] 6 t y [50r] 4 u o [1wy]
+[29e] [3o] p [4ws] 6 s d [50a] [4f] u o [1wy]
+[6wu] p o [29i] y t [59wr] t y [38qe]
+[6ts] p o [29i] y [td] [5ra] s [td] y [4ep]
 ```
 
 ## F. Chopin - Waltz in A minor, B. 150, Op. Posth
