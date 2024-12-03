@@ -6,7 +6,6 @@
 - [G. Ichinose - Pokémon League (Day)](#g-ichinose---pokémon-league-day)
 - [G. Ichinose - Verdanturf Town](#g-ichinose---verdanturf-town)
 - [G. Ichinose - Canalave City (Day)](#g-ichinose---pokémon-league-day)
-- [M. Nakamura - Green Hill Zone](#m-nakamura---green-hill-zone)
 - [S. Kageyama - An Unwavering Heart](#s-kageyama---an-unwavering-heart)
 - [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
 
@@ -44,20 +43,20 @@ u [6p] a [es] [es] [2d] f [eg] [ei]
 ```
 Transposition +1
 
-[qx] [etux] [qz] [ety]
-[qx] [jb] [etuf] D [qd] [etyd] D f
-[8a] [0wra] [8p] [0we] u o a d
-[8a] d [0wra] f [8p] [0we] p a d f
-[qf] [etux] [qz] [ety] s d
+[qx] [etx] [qz] [ety]
+[qx] [jb] [etf] D [qd] [etd] D f
+[8a] [0wa] [8p] [0we] u o a d
+[8a] d [0wa] f [8p] [0we] p a d f
+[qf] [etx] [qz] [ety] s d
 [qx] [hv] [etu] [jb] f
-[qz] [etyd] D f [8a]
-[0wrd] [8p] [0we] f h k z
+[qz] [etd] D f [8a]
+[0wd] [8p] [0we] f h k z
 [8k] z k x [8j] [4x] [etu] [4z] [ety]
-[4x] [hv] [etuf] D [4d] [etyd] D f
+[4x] [hv] [etf] D [4d] [etd] D f
 [1a] [0wr] [ak] [8p] [0we] u o a d
-[1a] d [8a] f [0wep] p a d f
+[1a] d [8a] f [0wp] p a d f
 [4f] [qx] [qz] [ety]
-[4x] [jb] q [lm] mmmmm [etyz] [qd] D f
+[4x] [jb] q [lm] mmmmm [etz] [qd] D f
 [1a] [0wr] [8p] [0we] u o a d [8a] d a f p
 ```
 
@@ -98,13 +97,13 @@ r o [rf] [ea] u W [us] [wp]
 [ua] d [qs] a [us] d [qj]
 t s p t 9 e I [ef] [wd]
 [is] [9a] [ip] [wa] [qs]
-d [9s] a [7s] d [1f]
-5 0 [5g] f [3d] 7 w [7f]
-d [6s] a [0p] a [5s] [0p]
-5 O [0p] a [4s] d [0f]
-s [4j] 8 d s e 8 2 6 Q
-[6f] [5d] [qs] [2a] [qp]
-[wa] [qs] h [8g] f [7g]
+z [9l] k [7l] z [1x]
+5 0 [5c] x [4z] 7 w [7x]
+z [6l] k [0j] k [5l] [0j]
+5 H [0j] k [4l] z [0x]
+l [4b] 8 z l e 8 2 6 Q
+[6x] [5z] [ql] [2k]
+[qj] [wk] [ql] h [8g] f [7g]
 h [4j] 8 e [8f] [7d]
 4 [9f] [4g] [3h] 7 w
 [7f] [6s] s [5d] f [4g]
@@ -122,13 +121,13 @@ r o [rf] [ea] u W [us] [wp]
 [ua] d [qs] a [us] d [qj]
 t s p t 9 e I [ef] [wd]
 [is] [9a] [ip] [wa] [qs]
-z [9l] k [7l] z [1x]
-5 0 [5c] x [4z] 7 w [7x]
-z [6l] k [0j] k [5l] [0j]
-5 H [0j] k [4l] z [0x]
-l [4b] 8 z l e 8 2 6 Q
-[6x] [5z] [ql] [2k]
-[qj] [wk] [ql] h [8g] f [7g]
+d [9s] a [7s] d [1f]
+5 0 [5g] f [3d] 7 w [7f]
+d [6s] a [0p] a [5s] [0p]
+5 O [0p] a [4s] d [0f]
+s [4j] 8 d s e 8 2 6 Q
+[6f] [5d] [qs] [2a] [qp]
+[wa] [qs] h [8g] f [7g]
 h [4j] 8 e [8f] [7d]
 4 [9f] [4g] [3h] 7 w
 [7f] [6s] s [5d] f [4g]
@@ -170,21 +169,6 @@ Transposition -3
 [*Z] w t [yz] Z [uc] t y [wz] J
 [8z] w l t y u t y w
 8 w t y u t y w
-```
-
-## M. Nakamura - Green Hill Zone
-```
-[toa] [ip] [oa] t
-[ip] [oa] [ip]
-[tps] [oa] [ip]
-t e E r
-[tip] [oa] [ps]
-[tip] [oa] [ps]
-[tps] [oa] t r e w
-q s p s [0wa] s a o
-[qe] o f d s [0wa] s a o
-[qe] s p s [0wa] s a o
-[9q] p p i p [80o] p o t [80w]
 ```
 
 ## S. Kageyama - An Unwavering Heart
