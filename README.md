@@ -6,7 +6,6 @@
 - [G. Ichinose - Pokémon League (Day)](#g-ichinose---pokémon-league-day)
 - [G. Ichinose - Verdanturf Town](#g-ichinose---verdanturf-town)
 - [G. Ichinose - Canalave City (Day)](#g-ichinose---pokémon-league-day)
-- [J. S. Bach - Jesu, Joy of Man's Desiring (BWV 147)](#j-s-bach---jesu-joy-of-mans-desiring-bwv-147)
 - [M. Nakamura - Green Hill Zone](#m-nakamura---green-hill-zone)
 - [S. Kageyama - An Unwavering Heart](#s-kageyama---an-unwavering-heart)
 - [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
@@ -45,16 +44,21 @@ u [6p] a [es] [es] [2d] f [eg] [ei]
 ```
 Transposition +1
 
-[qx] [ex] [qz] [ey] [qx] [jb]
-[ef] D [qd] [ed] D f [8a] [0a] [8p]
-[0e] u o a d [8a] d [0a] f [8p] [0e] p a d f
-[qf] [ex] [qz] [ey] s d [qx] [hv] [eu]
-[jb] f [qz] [ed] D f [8a] [0d] [8p]
-[0e] f h k z [8k] z k x [8j] [4x] [eu] [4z] [ey]
-[4x] [jb] [ef] D [4d] [ed] D f [1a] [0r] [ak] [8p]
-[0e] u o a d [1a] d [8a] f [0p] p a d f [4f] [qx] [qz] [ey]
-[4x] [jb] q llllll [ez] [qd] D f [1a] [0r] [8p]
-[0e] u o a d [8a] d a f p
+[qx] [etux] [qz] [ety]
+[qx] [jb] [etuf] D [qd] [etyd] D f
+[8a] [0wra] [8p] [0we] u o a d
+[8a] d [0wra] f [8p] [0we] p a d f
+[qf] [etux] [qz] [ety] s d
+[qx] [hv] [etu] [jb] f
+[qz] [etyd] D f [8a]
+[0wrd] [8p] [0we] f h k z
+[8k] z k x [8j] [4x] [etu] [4z] [ety]
+[4x] [hv] [etuf] D [4d] [etyd] D f
+[1a] [0wr] [ak] [8p] [0we] u o a d
+[1a] d [8a] f [0wep] p a d f
+[4f] [qx] [qz] [ety]
+[4x] [jb] q [lm] mmmmm [etyz] [qd] D f
+[1a] [0wr] [8p] [0we] u o a d [8a] d a f p
 ```
 
 ## G. Ichinose - Pokémon League (Day)
@@ -166,24 +170,6 @@ Transposition -3
 [*Z] w t [yz] Z [uc] t y [wz] J
 [8z] w l t y u t y w
 8 w t y u t y w
-```
-
-## J. S. Bach - Jesu, Joy of Man's Desiring (BWV 147)
-```
-Transposition -5
-
-[18] s d [8f] h g [6g] j h
-[3h] l k [6l] h f [6s] d f
-[2g] h j [3h] g f [4d] f s
-[5a] s d [7o] a d [5g] f d
-[8f] s d [6f] h g [4g] j h
-[3h] l k [6l] h f [5s] d f
-[4p] h g [4f] d s [5o] s a
-[1s] f h l h [tf] [ws] f [0h]
-[8l] [7r] [6g] [7h] [6s]
-[5h] [6g] [7d] [8f] [5d]
-o p [wa] d [ws] [wd] g [wf]
-[5g] d a [ro] a [wd] [wg] f [5d]
 ```
 
 ## M. Nakamura - Green Hill Zone
