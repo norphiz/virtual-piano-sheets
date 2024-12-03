@@ -22,8 +22,8 @@ Transposition +2
 [29e] [3p] o [4wu] 6 t y [50r] 4 u o [1wy]
 [29e] [3o] p [4wu] 6 t y [50r] 4 u o [1wy]
 [29e] [3o] p [4ws] 6 s d [50a] [4f] u o [1wy]
-[6wu] p o [29i] y t [59wr] t y [38qe]
-[6ts] p o [29i] y [td] [5ra] s [td] y [4ep]
+[6wu] p o [29i] y t [59r] t y [38e]
+[6ts] p o [29i] y [td] [5ra] s [td] y [4tp]
 ```
 
 ## F. Chopin - Waltz in A minor, B. 150, Op. Posth
