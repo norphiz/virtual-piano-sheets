@@ -8,7 +8,6 @@
 - [G. Ichinose - Canalave City (Day)](#g-ichinose---pokémon-league-day)
 - [J. S. Bach - Jesu, Joy of Man's Desiring (BWV 147)](#j-s-bach---jesu-joy-of-mans-desiring-bwv-147)
 - [M. Nakamura - Green Hill Zone](#m-nakamura---green-hill-zone)
-- [S. Kageyama - Farewell](#s-kageyama---farewell)
 - [S. Kageyama - An Unwavering Heart](#s-kageyama---an-unwavering-heart)
 - [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
 
@@ -200,46 +199,6 @@ q s p s [0wa] s a o
 [qe] o f d s [0wa] s a o
 [qe] s p s [0wa] s a o
 [9q] p p i p [80o] p o t [80w]
-```
-
-## S. Kageyama - Farewell
-```
-Transposition +3
-
-[8o] w t s d f
-[0o] r u I o a d s h
-[qh] t i p h g s
-[qh] t i p h g [rs] d
-[8o] w t s u o d u o f u o
-[qh] r u o a d h r f [dk]
-[qk] t i s g k [sj]
-[wj] y o d j h [ws] [wd]
-[6s] 0 t u a s
-[5d] 0 W [ra] u a
-[5s] 0 w t a s [4p] 9 Q e p a
-[4s] 6 q e p f 
-[3d] 7 W [5a] a
-[6s] 0 t r t u
-[9y] q E [8t] 0 t
-[qp] 8 q [us] t s
-[3d] 0 W [5f] 0 w
-[6s] 0 t u a s [5p] 9 Q y p a
-[2s] 6 q e a s [5d] 7 w r s d
-[%D] W t d f [7g] 9 E y a g
-[1sh] 5 0 [0fl] 8 0
-[qfz] 5 0 [0hx] 5 0
-[3sh] 7 w r y o
-[roa] r y [7yo] s [sh]
-[4sh] 8 e 8 [qdg]
-[esf] [tus] 8 0
-[tu] 8 q [5ys] 9 w
-[yoa] [ws] [0d]
-[wof] 9 w [wod] 9 w
-[eus] 6 e [epl] k j
-[wsh] u o s [qsj] t i
-[pj] k l [0hx] t u [ofl]
-[9ei] 6 q [ep] s g [5us] ( W i o s
-[9is] W T i o s [8us] w t u o s [8sfhl]
 ```
 
 ## S. Kageyama - An Unwavering Heart
