@@ -1,13 +1,12 @@
 # Table of Contents
 
 - [C418 - Sweden](#c418---sweden)
-- [F. Chopin - Waltz in A minor, B. 150, Op. Posth](#f-chopin---waltz-in-a-minor-b-150-op-posth)
 - [FKJ - Ylang Ylang](#fkj---ylang-ylang)
-- [G. Ichinose - Pokémon League (Day)](#g-ichinose---pokémon-league-day)
-- [G. Ichinose - Verdanturf Town](#g-ichinose---verdanturf-town)
-- [G. Ichinose - Canalave City (Day)](#g-ichinose---pokémon-league-day)
-- [S. Kageyama - An Unwavering Heart](#s-kageyama---an-unwavering-heart)
-- [T. Fox - Once Upon a Time](#t-fox---once-upon-a-time)
+- [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
+- [Go Ichinose - Verdanturf Town](#go-ichinose---verdanturf-town)
+- [Go Ichinose - Canalave City (Day)](#go-ichinose---pokémon-league-day)
+- [Shota Kageyama - An Unwavering Heart](#shota-kageyama---an-unwavering-heart)
+- [Toby Fox - Once Upon a Time](#toby-fox---once-upon-a-time)
 
 ## C418 - Sweden
 ```
@@ -24,18 +23,6 @@ Transposition +2
 [29e] [3o] p [4ws] 6 s d [50a] [4f] u o [1wy]
 [6wu] p o [29I] y t [59r] t y [38e]
 [6ts] p o [29I] y [td] [5ra] s [td] y [4tip]
-```
-
-## F. Chopin - Waltz in A minor, B. 150, Op. Posth
-```
-u [6p] a [es] [es] [2d] f [eg] [ei]
-[5a] s [wd] j [wh] g [8f] D [wf] [wu]
-[6p] a [es] [es] [2d] f [eg] [ei]
-[5a] s [wd] j [wh] a [8s] [wtu]
-u [6p] a [es] [es] [2d] f [eg] [ei]
-[5a] s [wd] j [wh] g [8f] D [wf] [wu]
-[6s] d [ef] [ef] [2g] h [ej] [ei]
-[5j] H j [wz] g [8f] [wtu] [wtu]
 ```
 
 ## FKJ - Ylang Ylang
@@ -59,7 +46,7 @@ Transposition +1
 [1a] [0wr] [8p] [0we] u o a d [8a] d a f p
 ```
 
-## G. Ichinose - Pokémon League (Day)
+## Go Ichinose - Pokémon League (Day)
 ```
 [4h] 8 e s [2h] 6 q s
 a f D [3d] 7 w a k 6 0
@@ -87,7 +74,7 @@ q 8 [4s] 8 [4s]
 8 q W t i O s c V m n c l H g s O
 ```
 
-## G. Ichinose - Verdanturf Town
+## Go Ichinose - Verdanturf Town
 ```
 Transposition +2
 
@@ -138,7 +125,7 @@ k h 3 7 0 f [6j] [0h] [eg]
 [8s] [5f] [8g] [8g] d s a s d
 ```
 
-## G. Ichinose - Canalave City (Day)
+## Go Ichinose - Canalave City (Day)
 ```
 Transposition -3
 
@@ -170,7 +157,7 @@ Transposition -3
 8 w t y u t y w
 ```
 
-## S. Kageyama - An Unwavering Heart
+## Shota Kageyama - An Unwavering Heart
 ```
 Transposition -3
 
@@ -182,7 +169,7 @@ Transposition -3
 [qts] t i e t i p s [wys] a k l [psl] [odk] h [idj]
 ```
 
-## T. Fox - Once Upon a Time
+## Toby Fox - Once Upon a Time
 ```
 [4t] s [6o] [%i] s [5t]
 [4t] i [6s] d [%s] o [5i]
