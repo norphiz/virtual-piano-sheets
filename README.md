@@ -5,6 +5,7 @@
 - [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
 - [Go Ichinose - Verdanturf Town](#go-ichinose---verdanturf-town)
 - [Go Ichinose - Canalave City (Day)](#go-ichinose---pokémon-league-day)
+- [Okubo Kaoru - Sekai](#okubo-kaoru---sekai)
 - [Shota Kageyama - An Unwavering Heart](#shota-kageyama---an-unwavering-heart)
 - [Toby Fox - Once Upon a Time](#toby-fox---once-upon-a-time)
 
@@ -155,6 +156,32 @@ Transposition -3
 [*Z] w t [yz] Z [uc] t y [wz] J
 [8z] w l t y u t y w
 8 w t y u t y w
+```
+
+## Okubo Kaoru - Sekai
+```
+Transposition -3
+
+s a s d s d f g G
+[9h] [ips] d j 9 [7h] [ioa] 7
+[8h] [uoa] f l 7 [6h] [uos] 6
+[9h] [ips] d j 9 [7h] [ioa] [7h] g f
+[8d] [uoa] 8 [6f] [uos] 6
+[9h] [ips] d j 9 [7h] [ioa] 7
+[8h] [uoa] f l 8 [6h] [uos] 6 f g
+[9h] [ips] d j 9 [7h] [ioa] [7h] g f
+[8d] [ios] [uos]
+
+Transposition -5
+
+[yh] [ip] d j [rh] [yo] [th] [uo] s l [eh] [tu]
+[yh] [ip] d j [rh] [yo] g f d [td] [uo] [ef] [tu]
+[yh] [ip] d j [rh] [yo] [th] [uo] s l [eh] [tu] f g
+[yh] [ip] d j [rh] [yo] g f d [td] [io] [io] [uos]
+[9d] [yg] [yj] [7k] [ro] h [rd] [8f] [th] [tk] [6l] [to] [to]
+[9d] [yg] [8j] [7k] [ro] h [rd] [7f] [ro] [rg] [eh]
+[yh] [ip] d j [rh] [yo] [th] [uo] s l [eh] [tu]
+[yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
 ```
 
 ## Shota Kageyama - An Unwavering Heart
