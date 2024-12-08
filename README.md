@@ -2,7 +2,6 @@
 
 - [C418 - Sweden](#c418---sweden)
 - [FKJ - Ylang Ylang](#fkj---ylang-ylang)
-- [Go Ichinose - Pokémon League (Day)](#go-ichinose---pokémon-league-day)
 - [Go Ichinose - Verdanturf Town](#go-ichinose---verdanturf-town)
 - [Go Ichinose - Canalave City (Day)](#go-ichinose---pokémon-league-day)
 - [Okubo Kaoru - Sekai](#okubo-kaoru---sekai)
@@ -18,7 +17,7 @@ Transposition +2
 [29e] 3 [4wu] 6 [50r] 4 [1wy]
 [29e] [3o] p [4wu] 6 t y [50r] 4 u o [1wy]
 [29e] s [3p] o [4wu] 6 t y [50r] 4 o u [1wy]
-[29e] [3o] p [4ws] 6 [tf] [yd] [50a] 4 [us] a [1wo]
+[29e] [3o] p [4ws] 6 [tf] [yd] [50a] 4 [us] a [1ro]
 [29e] [3p] o [4wu] 6 t y [50r] 4 u o [1wy]
 [29e] [3o] p [4wu] 6 t y [50r] 4 u o [1wy]
 [29e] [3o] p [4ws] 6 s d [50a] [4f] u o [1wy]
@@ -45,34 +44,6 @@ Transposition +1
 [4f] [qx] [qz] [ety]
 [4x] [jb] q [lm] mmmmm [etz] [qd] D f
 [1a] [0wr] [8p] [0we] u o a d [8a] d a f p
-```
-
-## Go Ichinose - Pokémon League (Day)
-```
-[4h] 8 e s [2h] 6 q s
-a f D [3d] 7 w a k 6 0
-[tfk] j k l
-[4h] 8 e s [2h] 6 q s
-a f D [3d] 7 w a k 6 0
-[tfk] j [4sgj]
-8 e 8 w 8 e 8 4
-[8p] e [8f] w [8d] e [8f] [5d]
-9 r 9 e 9 r 9 5 9
-[rd] 9 e [9f] r [9g] [4f]
-8 e 8 w 8 e 8 4
-[8p] e [8f] w [8d] e [8f] [3d]
-7 w 7 Q 7 w 7
-[3d] [@S] [2s] [1s]
-[1a] [5u] [8o] [5h]
-8 5 [1a] 5 [1P] [5u] [8o] [5j]
-8 5 [1h] 5 [4s] [8i] [0p] [8j]
-q 8 [4s] 8 [4s]
-8 q W [to] W [qi]
-8 [1a] [5u] [8o] [5h]
-8 5 [1a] 5 [1P] [5u] [8o] [5j]
-8 5 [1h] 5 [4s] [8i] [qp] [8j]
-q 8 [4s] 8 [4s]
-8 q W t i O s c V m n c l H g s O
 ```
 
 ## Go Ichinose - Verdanturf Town
