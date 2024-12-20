@@ -3,7 +3,6 @@
 - [C418 - Sweden](#c418---sweden)
 - [FKJ - Ylang Ylang](#fkj---ylang-ylang)
 - [Go Ichinose - Verdanturf Town](#go-ichinose---verdanturf-town)
-- [Go Ichinose - Canalave City (Day)](#go-ichinose---pokémon-league-day)
 - [Okubo Kaoru - Sekai](#okubo-kaoru---sekai)
 - [Shota Kageyama - An Unwavering Heart](#shota-kageyama---an-unwavering-heart)
 - [Toby Fox - Once Upon a Time](#toby-fox---once-upon-a-time)
@@ -95,38 +94,6 @@ h [4j] 8 e [8f] [7d]
 k h 3 7 0 f [6j] [0h] [eg]
 [0f] [2g] [6h] [8s] q 8 [6p]
 [8s] [5f] [8g] [8g] d s a s d
-```
-
-## Go Ichinose - Canalave City (Day)
-```
-Transposition -3
-
-5 8 w t y u t y w
-8 w t y u [to] [ys] [wd]
-[8f] w [td] [yf] u t [yg] w
-[0h] r u I o u [if] [rg]
-[9h] e y [uh] [ij] y [uf] e
-[9h] e [yg] u [if] y [uh] e
-[qg] [ts] [ig] [oh] O i [og] t
-[8f] w t [yl] u t y w
-[9d] e y [il] y [ud] e
-[5s] [9a] [wp] [ea]
-[to] [wo] [rh] [9g]
-[8f] w [td] [yf] u t [yg] w
-[0h] r u I o u [if] [rg]
-[9d] e y [uk] i [yl] u [ed]
-[5s] 9 w [ea] p [ra] w e 9
-[6l] ( W E t [ez] [EJ] H w
-[@J] ^ ( q w ( [qa] [7h]
-[%H] ( W E t [WJ] l [EJ] H ( g
-[3h] H ^ j [(J] [QL] W ( [QJ] [7k]
-[3l] ^ ( q w [0c] v [qc] Z [7z] c
-[@Z] ^ ( q w ( [QZ] z [7l] z
-[%Z] ( W t ^ q [TZ] z [yl] z
-[*Z] w J [TJ] y Y t y [wl] z
-[*Z] w t [yz] Z [uc] t y [wz] J
-[8z] w l t y u t y w
-8 w t y u t y w
 ```
 
 ## Okubo Kaoru - Sekai
