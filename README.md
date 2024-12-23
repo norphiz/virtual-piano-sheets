@@ -14,8 +14,8 @@ Transposition -5
 [8f] w t y u s [td] f
 [qg] t [ig] t [wh] y o [yg] h
 [8f] w t y u f [td] s
-[9d] e y i p e [of] y
-[9d] e y i s e [ip] e
+[9d] e y i [ip] e [of] y
+[9d] e y i [is] e [ip] e
 [5a] 9 w [9y] [6s] 0 [ef] 0
 [5f] 9 w g f [5d] 9 w r y o a d [txm]
 ```
