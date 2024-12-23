@@ -1,3 +1,25 @@
+## Junichi Masuda - Pallet Town
+```
+Transposition -5
+
+[th] [ug] [of] [ud] [el] [uj] [rk] [uj]
+[th] u o [uf] [rs] [us] [ed] [uf]
+[qg] t i t w [ya] [os] [yd]
+[8f] w t [wg] f [5d] 9 w r
+[th] [ug] [of] [uh] [el] [uk] [rk] [ul]
+[tj] u o [uh] [rh] u e u
+[qg] [tf] [id] [ts] [wh] [yg] [of] [yd]
+[8s] w t w 8 s [wd] f
+[qg] t [ig] t [wh] y o [yg]
+[8f] w t y u s [td] f
+[qg] t [ig] t [wh] y o [yg] h
+[8f] w t y u f [td] s
+[9d] e y i p e [of] y
+[9d] e y i s e [ip] e
+[5a] 9 w [9y] [6s] 0 [ef] 0
+[5f] 9 w g f [5d] 9 w r y o a d [txm]
+```
+
 ## Kaoru Okubo - Sekai (Piano Version)
 
 ```
