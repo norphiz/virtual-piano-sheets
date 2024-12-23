@@ -1,3 +1,26 @@
+## FKJ - Ylang Ylang
+
+```
+Transposition +1
+
+[qx] [etx] [qz] [ety]
+[qx] [jb] [etf] D [qd] [etd] D f
+[8a] [0wa] [8p] [0we] u o a d
+[8a] d [0wa] f [8p] [0we] p a d f
+[qf] [etx] [qz] [ety] s d
+[qx] [hv] [etu] [jb] f [qz] [etd] D f
+[8a] [0wd] [8p] [0we] f h k z
+[8k] z k x [8j]
+[4x] [etu] [4z] [ety]
+[4x] [hv] [etf] D [4d] [etd] D f
+[1a] [0wr] [ak] [8p] [0we] u o a d
+[1a] d [8a] f [0wp] p a d f
+[4f] [qx] [qz] [ety]
+[4x] [jb] q [lm] [etz] [qd] D f
+[1a] [0wr] [8p] [0we] u o a d
+[8a] d a f p
+```
+
 ## Junichi Masuda - Pallet Town
 ```
 Transposition -5
