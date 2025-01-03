@@ -1,5 +1,23 @@
-## FKJ - Ylang Ylang
+## C418 - Wet Hands
+```
+Transposition -3
 
+8 0 t y u y t w q e u o u t
+8 0 t y u y t w q e u o u t
+[8a] 0 t y u y [ts] w [qp] e u o u t o p
+[8a] 0 t y u y [td] [wf] q [ep] u o u t f h
+[^J] 9 q [ej] [tg] e [qs] [9d] ^ 9 q e t
+[^J] 9 [qj] e [tg] e [qs] [9d] ^ 9 q e t s
+[8o] 0 t y u y t w 8 0 t y u o s f
+[9pdg] q e [tf] [us] [oh] [pj]
+9 [qg] e t u d f [7g] 9 [qf] [eg] t j
+[80wtosf] d s [5d] 7 9 w r w 9 7
+5 7 9 w r w 8 [^J] [9j] [qh] [eg] [th] [eg] [qh] [9j]
+8 [0h] w t [ul] t w 0 [5k] [7h] [9d] [wa] [ro] [5d] [7a] [9o] [wy] r
+5 7 9 w 9 5 7 9 w w s [8o] w t y u y t w 8
+```
+
+## FKJ - Ylang Ylang
 ```
 Transposition +1
 
@@ -19,6 +37,41 @@ Transposition +1
 [4x] [jb] q [lm] [etz] [qd] D f
 [1a] [0wr] [8p] [0we] u o a d
 [8a] d a f p
+```
+
+## Hiroyuki Sawano - Ad la Lib
+```
+Transposition -2
+
+[6l] [rt] l k x j [2l] [46] l j v c
+[5k] [0w] k b v z [8x] [rt] f h l z j
+[4x] [qe] [fx] [ak] [3ak] [wy] [dz] k l
+[6l] [0t] a s g f 6 0 f [6l] [rt] [rt] [fl] [ak] [rdz] [fx] k
+[5k] [wy] [ak] k [wyhv] [gc] [wy] [fx] [dz] [4fx] z x
+[rt] j l [rz] [rt] l [3fk] [57w] [5oh] [57w] h f
+[2h] j [90q] j [9fx] [9hv] [fx] [6sl] [rt] [fl] [erz] l
+[5hk] f [4gj] [tyu] [qt] p [qts] a [0wa] u [350] j [4gl]
+[46qe] l k j [5hx] [9wry] [ak] [sl]
+```
+
+## Hitomi Sato - Undella Town
+```
+Transposition -2
+
+[tiod] s h [euos] g f o
+[tiod] s h [etyos] j h s
+[qtud] s h [eyus] j h s
+[wtyd] s f [0tys] o d s
+[qtuj] h z [0etl] o d s
+[qtug] f z [0wtl] k l h
+[0etj] s g [wtyf] k l h
+[qwtj] s d [0wts]
+[eyo] [ipd] [uos]
+[qwtsfj] [adh] [fjz] [wrtudhl]
+[eyo] [ipd] [uos] [qwyodg] [oaf]
+[fhz] [0etfhl] k l h
+[0wtj] s g [etyf] k l h
+[qwtj] s d [0wts] h l z v m
 ```
 
 ## Junichi Masuda - Pallet Town
@@ -44,7 +97,6 @@ Transposition -5
 ```
 
 ## Kaoru Okubo - Sekai (Piano Version)
-
 ```
 Transposition -5
 
@@ -59,7 +111,6 @@ Transposition -5
 ```
 
 ## Shota Kageyama - An Unwavering Heart
-
 ```
 Transposition -3
 
