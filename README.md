@@ -47,7 +47,7 @@ Transposition -2
 [5k] [0w] k b v z [8x] [rt] f h l z j
 [4x] [qe] [fx] [ak] [3ak] [wy] [dz] k l
 [6l] [0t] a s g f 6 0 f [6l] [rt] [rt] [fl] [ak] [rdz] [fx] k
-[5k] [wy] [ak] k [wyhv] [gc] [wy] [fx] [dz] [4fx] z x
+[5k] [wy] [ak] [wyhv] [gc] [wy] [fx] [dz] [4fx] z x
 [rt] j l [rz] [rt] l [3fk] [57w] [5oh] [57w] h f
 [2h] j [90q] j [9fx] [9hv] [fx] [6sl] [rt] [fl] [erz] l
 [5hk] f [4gj] [tyu] [qt] p [qts] a [0wa] u [350] j [4gl]
