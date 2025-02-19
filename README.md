@@ -138,6 +138,8 @@ Transposition -3
 
 ## Shota Kageyama - Farewell
 ```
+Transposition +3
+
 [8tuo] w t s d f
 [0ruo] r u I o a d s h
 [qish] t i p g f [ps]
