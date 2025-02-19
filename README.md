@@ -143,7 +143,7 @@ Transposition +3
 [8uo] w t s d f
 [0uo] r u I o a d s h
 [qsh] t i p g f [ps]
-[qsh] t i p g f [rips] d
+[qsh] t i p g f [rps] d
 [8uo] w t s u o d u o f u o
 [0ah] r u o a d h r f [dk]
 [qdk] t i s g k [sj]
