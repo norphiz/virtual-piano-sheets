@@ -98,6 +98,8 @@ Transposition -5
 
 ## Johann Sebastian Bach - Jesu, Joy of Man's Desiring
 ```
+Transposition -5
+
 [18] s d [8tf] h g [6eg] j h [30h] l k
 [6el] h f [6s] d f [29g] h j [30h] g f
 [4qd] f s [5wa] s d [7ro] a d [5wg] f d
@@ -156,7 +158,7 @@ Transposition +3
 [6ps] 0 t u a s [4ip] 9 Q y p a
 [2ps] 6 q e a s [5ad] 7 w r s d
 [%D] 8 W t [ad] [sf] [7dg] 9 E y a g
-[1fh] 5 0 [0hl] 8 0 [qhz] 5 0 [0hlx] 5 0
+[1fh] 5 0 [0hl] 8 0 [qhz] 5 0 [0lx] 5 0
 [3fh] 7 w r y o [roa] r y [7yo] s [sfh]
 [4fh] 8 e 8 [qdg] [esf] [tps] 8 0 [tu] 8 q
 [5is] 9 w [yoa] [ws] [0d] [waf] 9 w
