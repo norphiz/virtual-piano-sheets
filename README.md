@@ -96,6 +96,19 @@ Transposition -5
 [5f] 9 w g f [5d] 9 w r y o a d [txm]
 ```
 
+## Johann Sebastian Bach - Jesu, Joy of Man's Desiring
+```
+[18] s d [8tf] h g [6eg] j h [30h] l k
+[6el] h f [6s] d f [29g] h j [30h] g f
+[4qd] f s [5wa] s d [7ro] a d [5wg] f d
+[8tf] s d [6tf] h g [4qg] j h [30h] l k
+[6el] h f [5ws] d f [4qp] h g [4f] d s
+[5wo] s a [18s] f h l h [tf] [ws] f [0h]
+[8wl] [7r] [6eg] [7rh] [6es] [5wh] [6eg]
+[7rd] [8tf] [5wd] o p [wya] d [wes] [wrd] g
+[5wf] [5g] d a [ro] a [wod] [wyg] f [5wd] [8uf]
+```
+
 ## Kaoru Okubo - Sekai (Piano Version)
 ```
 Transposition -5
@@ -121,6 +134,35 @@ Transposition -3
 [wof] d [us] a [9ip] e t e [yip] [eid]
 [0ya] r y o [oa] r [yod] [qts] t i e t i p s
 [wys] a k l [psl] [odk] h [idfj]
+```
+
+## Shota Kageyama - Farewell
+```
+[8tuo] w t s d f
+[0ruo] r u I o a d s h
+[qish] t i p g f [ps]
+[qish] t i p g f [rips] d
+[8tuo] w t s u o d u o f u o
+[0ah] r u o a d h r f [dk]
+[qdk] t i s g k [sj]
+[wj] y o d j h [wps] [wad]
+[6ups] 0 t u a s [5ud] 0 W [ra] u a
+[5us] 0 w t a s [3yip] 9 q e p a
+[2ips] 6 q e p f [3uod] 7 W [5ua] a
+[6ups] 0 t r t u [9qey] q E [80wt] 0 t
+[qtip] 8 q [ups] t s [3uad] 0 W [5af] 0 W
+[6ups] 0 t u a s [4yip] 9 Q y p a
+[2ips] 6 q e a s [5ad] 7 w r s d
+[%D] 8 W t [ad] [sf] [7adg] 9 E y a g
+[1sfh] 5 0 [0hl] 8 0 [qhz] 5 0 [0hlx] 5 0
+[3sfh] 7 w r y o [roa] r y [7yo] s [sfh]
+[4sfh] 8 e 8 [qdg] [esf] [tups] 8 0 [tu] 8 q
+[5yis] 9 w [yoa] [ws] [0d] [woaf] 9 w
+[woad] 9 w [eps] 6 e [el] k j [wsfh] u o s
+[qsfj] t i [pj] k l [0hlx] t u [ohl]
+[9eti] 6 q [ep] s g [5psf] 9 q [iad]
+[6os] ( W i o s [9ips] W T i o s
+[8uos] w t u o s [8shl]
 ```
 
 ## Toby Fox - Home
