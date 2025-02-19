@@ -140,31 +140,31 @@ Transposition -3
 ```
 Transposition +3
 
-[8tuo] w t s d f
-[0ruo] r u I o a d s h
-[qish] t i p g f [ps]
-[qish] t i p g f [rips] d
-[8tuo] w t s u o d u o f u o
+[8uo] w t s d f
+[0uo] r u I o a d s h
+[qsh] t i p g f [ps]
+[qsh] t i p g f [rips] d
+[8uo] w t s u o d u o f u o
 [0ah] r u o a d h r f [dk]
 [qdk] t i s g k [sj]
 [wj] y o d j h [wps] [wad]
-[6ups] 0 t u a s [5ud] 0 W [ra] u a
-[5us] 0 w t a s [3yip] 9 q e p a
-[2ips] 6 q e p f [3uod] 7 W [5ua] a
-[6ups] 0 t r t u [9qey] q E [80wt] 0 t
-[qtip] 8 q [ups] t s [3uad] 0 W [5af] 0 W
-[6ups] 0 t u a s [4yip] 9 Q y p a
-[2ips] 6 q e a s [5ad] 7 w r s d
-[%D] 8 W t [ad] [sf] [7adg] 9 E y a g
-[1sfh] 5 0 [0hl] 8 0 [qhz] 5 0 [0hlx] 5 0
-[3sfh] 7 w r y o [roa] r y [7yo] s [sfh]
-[4sfh] 8 e 8 [qdg] [esf] [tups] 8 0 [tu] 8 q
-[5yis] 9 w [yoa] [ws] [0d] [woaf] 9 w
-[woad] 9 w [eps] 6 e [el] k j [wsfh] u o s
-[qsfj] t i [pj] k l [0hlx] t u [ohl]
-[9eti] 6 q [ep] s g [5psf] 9 q [iad]
-[6os] ( W i o s [9ips] W T i o s
-[8uos] w t u o s [8shl]
+[6ps] 0 t u a s [5ud] 0 W [ra] u a
+[5us] 0 w t a s [3ip] 9 q e p a
+[2ps] 6 q e p f [3od] 7 W [5ua] a
+[6ps] 0 t r t u [9ey] q E [8wt] 0 t
+[qip] 8 q [ups] t s [3ad] 0 W [5af] 0 W
+[6ps] 0 t u a s [4ip] 9 Q y p a
+[2ps] 6 q e a s [5ad] 7 w r s d
+[%D] 8 W t [ad] [sf] [7dg] 9 E y a g
+[1fh] 5 0 [0hl] 8 0 [qhz] 5 0 [0hlx] 5 0
+[3fh] 7 w r y o [roa] r y [7yo] s [sfh]
+[4fh] 8 e 8 [qdg] [esf] [tps] 8 0 [tu] 8 q
+[5is] 9 w [yoa] [ws] [0d] [waf] 9 w
+[wad] 9 w [eps] 6 e [el] k j [wfh] u o s
+[qfj] t i [pj] k l [0lx] t u [ohl]
+[9ti] 6 q [ep] s g [5sf] 9 q [iad]
+[6os] ( W i o s [9ps] W T i o s
+[8os] w t u o s [8shl]
 ```
 
 ## Toby Fox - Home
