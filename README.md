@@ -173,21 +173,14 @@ Transposition +3
 ```
 Transposition -3
 
-8 w t y w t y
-0 w t o w t y
+8 w t y w t y 0 w t o w t y
 ( w t y w t y w t o
-8 w t y w t y
-0 w t y w t y
-q e t o e t y
-s a o t y t
-8 w t y w t y
-0 w t y w t y
-( w t y o y t
-( w t [9y] o w t
-8 w t y w t o
-0 w t o i u t
-( w t y w t y
-9 t y [5to]
+8 w t y w t y 0 w t y w t y
+q e t o e t y s a o t y t
+8 w t y w t y 0 w t y w t y
+( w t y o y t ( w t [9y] o w t
+8 w t y w t o 0 w t o i u t
+( w t y w t y 9 t y [5to]
 [8o] w t [yh] t w
 [0d] r y o y r
 [0s] E [uh] r 0
