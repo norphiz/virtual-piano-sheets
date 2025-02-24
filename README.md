@@ -55,6 +55,30 @@ o s d [8f] w u [wg] [0d] r o [rf] [ea] u W
 [2f] [6g] [8s] q 8 [6p] [8s] [5f] g [9g] d s a s d
 ```
 
+## Go Ichinose - Pokémon League (Day)
+```
+[4gh] 8 e s [2gh] 6 q s a f D
+[3sd] 7 w a k 6 0 [tfk] j k l
+[4gh] 8 e s [2gh] 6 q s a f D
+[3sd] 7 w a k 6 0 [tfk] j
+[4psj] 8 e 8 w 8 e 8 4
+[8p] e [8sf] w [8d] [ep] [8f]
+[5ad] 9 r 9 e 9 r 9 5 9
+[road] 9 e [9f] [ro] [9g]
+[4psf] 8 e 8 w 8 e 8 4
+[8p] e [8sf] w [8d] [ep] [8f]
+[3oad] 7 w 7 Q 7 w 7
+[3oad] [@IPS] [2ips] [!ips]
+[1ua] [5u] [0o] [fh] 0 5 [oa] 5
+[1uP] [5u] [0o] [sfj] 0 5 [sh] 5
+[4ipa] [8i] [ep] [sgj] e 8 [ips] 8
+[4ips] 8 q W [tP] i [tp] e
+[1ua] [5u] [0o] [fh] 8 5 [oa] 5
+[1uP] [5u] [0o] [sfj] 0 5 [sh] 5
+[4ips] [8i] [ep] [sgj] e 8 [ips] 8
+[4ips] % 8 q W t i O [scbm] b c l H g s O
+```
+
 ## Hiroyuki Sawano - Ad la Lib
 ```
 Transposition -2
