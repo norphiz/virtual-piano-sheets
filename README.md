@@ -45,12 +45,12 @@ Transposition +2
 
 o s d [8f] w u [wg] [0d] r o [rf] [ea] u W
 [us] [wp] [ua] d [qs] a [us] d [qj] t s p t 9 e I
-[ef] [wd] [is] [9a] [ip] [wa] [qs] d [9s] a [7s] d
-[1f] 5 0 [5g] f [3d] 7 w [7f] d [6s] a [0p] a [5s]
-[0p] 5 O [0p] a [4s] d [0f] s [4j] 8 d s e 8 2 6 Q
-[6f] [5d] [qs] [2a] [qp] [wa] [qs] h [9g] f [7g] h
+[ef] [wd] [is] [9a] [ip] [wa] [qs] z [9l] k [7l] z
+[1x] 5 0 [5c] x [3z] 9 w [9x] z [6l] k [0j] k [5l]
+[0j] 5 H [0j] k [4l] z [0x] l [4b] 8 z l e 8 2 6 Q
+[6x] [5z] [ql] [2k] [qj] [wk] [ql] h [9g] f [7g] h
 [4j] 8 e f [1d] 5 [9f] [4g] [3h] 7 w f [6s] s [5d] f
-[4g] 8 e g [5h] g [0f] [6d] [6g] q t h [1f] 5 8 e f g h
+[4g] 8 e g [5h] g [0f] [6d] [6g] q t h [1f] 5 8 f g h
 [4j] 8 e j [7k] [wl] [yz] k h 3 7 0 f [6j] [0h] [eg] [0f]
 [2f] [6g] [8s] q 8 [6p] [8s] [5f] g [9g] d s a s d
 ```
