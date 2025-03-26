@@ -39,7 +39,7 @@ Transposition +1
 [8a] d a f p
 ```
 
-## Go Ichinose - Verdantuf Town
+## Go Ichinose - Verdanturf Town
 ```
 Transposition +2
 
