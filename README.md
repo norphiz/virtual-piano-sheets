@@ -195,7 +195,7 @@ Transposition +3
 [6us] 0 t u a s [2ip] 9 e y p a
 [2is] 6 q e a s [3od] 7 w r s d
 [4OD] 8 W t [pd] [OD] [7ag] q E y a g
-[1sfh] 5 0 [fhl] 8 0 [dhz] 5 0 [shlx] 5 0
+[1fh] 5 0 [fhl] 8 0 [dhz] 5 0 [shlx] 5 0
 [3adh] 7 w r y o [woa] r y [7o] s [ph]
 [4ph] 8 e 8 [qg] [ef] [4ps] 8 q [to] 8 q
 [5ps] 9 w [ya] s d [5yf] 9 W [yd] 9 W
