@@ -169,13 +169,13 @@ Transposition -5
 ```
 Transposition -3
 
-[isj] x v [osj] x v [uaj] v b [pfx] [ofx] z l k
-[isj] x v [osj] x v [uaj] z l k [psh] f d s a
-[qop] t i f h q [wyp] [yo] f h y o d
-[0yp] r y [ah] [sj] 0 [eof] u o a
-[wof] d [us] a [9ip] e t e [yip] [eid]
-[0ya] r y o [oa] r [yod] [qts] t i e t i p s
-[wys] a k l [psl] [odk] h [idfj]
+[isdhj] x v [osdhj] x v [uadhj] v b [pfhlzx] [ofhhx] z l k
+[isdhj] x v [osdhj] x v [uadhj] z l k [psdh] f d s a
+[qop] t i f h [4q] [5wyop] [yo] [af] [dh] y o d
+[0yop] r y o [adh] [sdj] [eosf] u o a [wpf] d [uos] a
+[9yip] e t e [yip] [qeipd] [29] [30yoa] r y o [oa] r
+[yoad] [30] [4quops] t i e t i p [4qs]
+[5wyos] a k l [psfl] [odfk] h [idfj]
 ```
 
 ## Shota Kageyama - Farewell
