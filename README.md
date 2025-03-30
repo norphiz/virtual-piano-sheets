@@ -46,7 +46,7 @@ Transposition +2
 o s d [8f] w u [wg] [0d] r o [rf] [ea] u W
 [us] [wp] [ua] d [qs] a [us] d [qj] t s p t 9 e I
 [ef] [wd] [is] [9a] [ip] [wa] [qs] z [9l] k [7l] z
-[1x] 5 0 [5c] x [3z] 9 w [9x] z [6l] k [0j] k [5l]
+[1x] 5 0 [5c] x [3z] 7 w [7x] z [6l] k [0j] k [5l]
 [0j] 5 H [0j] k [4l] z [0x] l [4b] 8 z l e 8 2 6 Q
 [6x] [5z] [ql] [2k] [qj] [wk] [ql] h [9g] f [7g] h
 [4j] 8 e f [1d] 5 [9f] [4g] [3h] 7 w f [6s] s [5d] f
