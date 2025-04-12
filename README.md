@@ -98,20 +98,13 @@ Transposition -2
 ```
 Transposition -2
 
-[tiod] s h [euos] g f o
-[tiod] s h [etyos] j h s
-[qtud] s h [eyus] j h s
-[wtyd] s f [0tys] o d s
-[qtuj] h z [0etl] o d s
-[qtug] f z [0wtl] k l h
-[0etj] s g [wtyf] k l h
-[qwtj] s d [0wts]
-[eyo] [ipd] [uos]
-[qwtsfj] [adh] [fjz] [wrtudhl]
-[eyo] [ipd] [uos] [qwyodg] [oaf]
-[fhz] [0etfhl] k l h
-[0wtj] s g [etyf] k l h
-[qwtj] s d [0wts] h l z v m
+[tiod] s h [etuo] g f o [tiod] s h [etyo] j h s
+[qtud] s h [euis] j h s [wtyd] s f [0tys] o d s
+[qtuj] h z [9wtl] o d s [qtuj] h z [9wtl] k l h
+[qwtj] s g [wtyf] k l h [qwtj] s d [9wts]
+[eyo] [ipd] [uos] [qtosfj] [adh] [fjz] [wrudhl]
+[eyo] [ipd] [uos] [qwyodg] [oaf] [fhz] [wtudhl] k l h
+[qwtj] s d [9wts] [0wts]
 ```
 
 ## Junichi Masuda - Pallet Town
