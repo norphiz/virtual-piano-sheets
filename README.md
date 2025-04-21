@@ -227,3 +227,17 @@ q e t o e t y s a o t y t
 [wua] d [eud] s [wya] s [qto] [wyi] o
 [qtu] [wry] u [qet] [0wt] [0rt] [9et] [5wt]
 ```
+
+## Toby Fox - Once Upon a Time
+```
+[4t] s [6o] [5i] s [5t] [4t] i [6s] d [5s] o [5i]
+[4t] s [6o] [5i] s [5t] [4t] i [6s] d [5s] o [5i] E r
+[7t] q [ws] [qp] [7o] [qi] [wu] [qi] [6o] q [wf] q D d [5s] q w q
+[5y] q [ws] [qp] [8o] [qi] [wo] [qp] [6u] q [wo] q [9o] [qi] [8u] [8i]
+[7t] q [ws] [qp] [7o] [qi] [wu] [qi] [6o] q [wf] q D d [5s] q w q
+[5y] q [ws] [qp] [8o] [qi] [wo] [qp] [6u] q [wo] q [9o] [qi] [8u] [8i]
+[il] g h g [oa] g h g [EP] g h J [ij] h g s
+[il] g h g [oa] g h g [EP] g h J [ij] h g s
+l g h g a g h g P g h J j h g s
+l g h g a g h g P g h J j h g s
+```
