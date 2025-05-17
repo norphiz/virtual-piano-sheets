@@ -158,6 +158,22 @@ Transposition -5
 [yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
 ```
 
+## Rolf Løvland - Song from a Secret Garden
+```
+Transposition +3
+
+u p a [6s] 0 e a [2s] 6 q [5s] [9d] [wa] p [1a]
+0 w [4a] [8s] [qp] o [2p] 6 q o [6u] 0 e r t
+u p a [6s] 0 e a [2s] 6 q [5s] [9d] [wa] p [1a]
+5 0 w [4a] [8s] [qp] o [2p] 6 q o [1p] 3 6 7 8
+a s h [4j] 6 q j [4j] [9k] [wh] g [3h] 5 7 9 6 [9a] [0s] f [2g]
+6 q g [5g] [9h] [wf] d [1f] 5 0 r e a [ws] h [4j]
+0 e j [2j] [7k] [qh] G [3h] 7 9 0 [1h] [6j] [0g] f [2g]
+6 q [eg] [1g] [6h] [8f] d [5f] O 3 6 7 [8p] 7 [8u] [8i]
+9 7 6 [7y] [7u] 8 6 5 [6i] 5 [3u] 3 6 7 [8p] 7 [8u] [8i]
+9 7 6 [7y] [7u] 8 6 5 [6i] 5 [6p]
+```
+
 ## Shota Kageyama - An Unwavering Heart
 ```
 Transposition -3
