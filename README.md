@@ -261,3 +261,27 @@ q e t o e t y s a o t y t
 l g h g a g h g P g h J j h g s
 l g h g a g h g P g h J j h g s
 ```
+
+## Toby Fox - A Town Called Hometown
+```
+[sx] [fh] [fh] [sk] [fh] [fh] [sj] [gh] k [gl] [sv] [gh] [gh]
+[sx] [fh] [fh] [sk] [fh] [fh] [sj] [gh] k [gl] [sn] [gh] [gh]
+[sx] [fh] [fh] [sk] [fv] [fb] [sj] [gh] k [gl] [gb] [fv] [dc]
+[gx] c x [hz] l l h g f
+[8f] w [wd] [7f] w g [wh] [6l] 0 0 5 [0k] [0l] [4k] 9 [9j]
+[3h] w [wg] [2f] w g [2f] [5d] [%f] [6s] w [wa] [5s] w d [wf]
+[5k] w [5j] [$f] s [4s] $ f [4s] [5f] g f [5d] w 9
+[8f] w [wd] [7f] w g [wh] [6l] 0 0 [5y] [0k] [0l] [4k] 9 [9j]
+[3h] w [wg] [2f] w g [2f] [5d] [%f] [6s] w [6a] [5s] w d [%f]
+[5k] w [5j] [$f] s [4s] $ [Qa] [4s] [5f] g f [5d] w [9x] k
+[el] t [uh] [wx] t c [uz] l [ql] t u q t [ux] z
+[el] t [uh] [wx] t c [uz] l [ql] [tm] [un] [qv] [tx] [uz]
+[el] t [uh] [wx] t c [uz] l [ql] [tl] [uz] [qx] [tc] [uv]
+[el] t [uh] [wx] t c [uz] l [9l] Q [tj] [Qx] t z [ul] x
+[wz] t y [wv] x [9c] w v [tb] [rv] t y 0
+[wh] [th] [yh] g f g [qh] w [tl] [yh] 0
+[wh] [th] [yh] g f g [wh] [td] [ya] [eus] 0
+[wh] [th] [yh] g f g [qh] w [tl] [yh] s d
+[9g] [qf] [es] [wo] s a [es] [ux] z [tl] z
+[wx] l z [gc] x l h l k [sl] [yiadh]
+```
