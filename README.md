@@ -285,3 +285,20 @@ l g h g a g h g P g h J j h g s
 [9g] [qf] [es] [wo] s a [es] [ux] z [tl] z
 [wx] l z [gc] x l h l k [sl] [yiadh]
 ```
+
+## Toby Fox - Lost Girl
+```
++2
+
+q e t u a s o u [0rp] e r t [0wro] e r t
+q e t u a s o u [0ep] t [us] [td] [0ra] e [wo] [9a]
+q e t u a s o u [0rp] e r t [0wro] e r t [9e]
+w e t i u t y y 5 9 w t [59wr]
+[3oa] w [ru] [oa] [ru] [oa] [ru] a
+[4to] e [et] [to] [et] [to] [et] o
+[3oa] w [ru] [oa] [ru] [oa] [ru] a
+[4os] w [ti] [os] [ti] [os] [ti] s
+[3oa] 0 w [ru] [oa] [ru] [oa] [ru] a
+[4to] q e [et] [to] [et] [to] [et] o
+[yp] o p s g f s d d w y o s [wyoa]
+```
