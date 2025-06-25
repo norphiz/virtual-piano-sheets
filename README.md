@@ -288,7 +288,7 @@ l g h g a g h g P g h J j h g s
 
 ## Toby Fox - Lost Girl
 ```
-+2
+Transposition +2
 
 q e t u a s o u [0rp] e r t [0wro] e r t
 q e t u a s o u [0ep] t [us] [td] [0ra] e [wo] [9a]
