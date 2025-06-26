@@ -291,7 +291,7 @@ l g h g a g h g P g h J j h g s
 Transposition +2
 
 q e t u a s o u [0rp] e r t [0wro] e r t
-q e t u a s o u [0ep] t [us] [td] [0ra] e [wo] [9a]
+q e t u a s o u [0p] t [us] [td] [0ra] e [wo] [9a]
 q e t u a s o u [0rp] e r t [0wro] e r t [9e]
 w e t i u t y y 5 9 w t [59wr]
 [3oa] w [ru] [oa] [ru] [oa] [ru] a
