@@ -17,6 +17,14 @@ Transposition -3
 5 7 9 w 9 5 7 9 w w s [8o] w t y u y t w 8
 ```
 
+## Eriko Imura - And I Begin To Wonder
+```
+Transposition -5
+
+[qd] [uopd] s [8a] [tuoa] s [6d] [tuop] o [7p] [tyi]
+[qd] [uopd] s [6a] [yuoa] s [7ypd] [tyipdj] [odh] [4pfj] [tuo]
+```
+
 ## FKJ - Ylang Ylang
 ```
 Transposition +1
@@ -105,6 +113,22 @@ Transposition -2
 [eyo] [ipd] [uos] [qtosfj] [adh] [fjz] [wrudhl]
 [eyo] [ipd] [uos] [qwyodg] [oaf] [fhz] [wtudhl] k l h
 [qwtj] s d [9wts] [0wts]
+```
+
+## Hiroshi Takaki - Kutsuro Gish
+```
+Transposition +3
+
+9 [qts] a [5p] [qro] y [9u] [qt] 5 [qr]
+9 [qts] a [5p] [qro] a [8o] [0r] 8 [0e]
+9 [qts] a [5p] [qro] y [9u] [qtx] k [5j] [qf]
+9 [qts] a [5p] [qra] o [8f] [0r] 8 [0Ef] g [4f]
+[9ed] p [4d] [9e] [5s] [0wa] o [%u] [0t] [ry] [8et] [0w] 8 [0Q] [7y]
+[9wu] I [3o] [7wa] d [2s] [80qa] p [5o] [qr]
+9 [qts] a [5p] [qro] y [9u] [qtl] k [5j] [qrh] d
+[9f] [qts] a [5p] [qro] a [8o] [0rf] d [8a] [0eo]
+9 [qtl] [ak] [5pj] [qroh] [yd] [9uf] [qt] 5 [qr]
+9 [qtl] [ak] [5pj] [qrh] [ak] [8oh] [0r] 8 [0e] 8 [0r] 8 [0e] [80ey]
 ```
 
 ## Junichi Masuda - Pallet Town
