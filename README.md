@@ -250,7 +250,7 @@ Transposition -3
 8 w t y w t o 0 w t o i u t
 ( w t y w t y 9 t y [5to]
 [8o] w t [yh] t w [0d] r y o y r
-0s E [uh] E ( [9o] e t y w 5 9 w
+[0s] E [uh] E ( [9o] e t y w 5 9 w
 [8o] w t [ys] w [0h] t [yj] t y
 [0h] E [9ed] y [8s] w t u y t w
 [8o] w t [yh] t w [0d] r y o y r 0
