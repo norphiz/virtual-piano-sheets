@@ -243,29 +243,24 @@ Transposition +3
 Transposition -3
 
 8 w t y w t y 0 w t o w t y
-( w t y w t y w t o
-8 w t y w t y 0 w t y w t y
-q e t o e t y s a o t y t
+( w t y w t y w t o 8 w t y w t y
+0 w t y w t y q e t o e t y s a o t y t
 8 w t y w t y 0 w t y w t y
 ( w t y o y t ( w t [9y] o w t
 8 w t y w t o 0 w t o i u t
 ( w t y w t y 9 t y [5to]
 [8o] w t [yh] t w [0d] r y o y r
-[0s] E [uh] r 0 [9o] e t y w 5 9 w
+0s E [uh] E ( [9o] e t y w 5 9 w
 [8o] w t [ys] w [0h] t [yj] t y
 [0h] E [9ed] y [8s] w t u y t w
 [8o] w t [yh] t w [0d] r y o y r 0
 [0s] E Y h Y E [9o] e y o 5 w
-[8o] w t s w 8 [3ah] 0 j 3 [4h] [5qd]
-[8s] w t u y t w
-[qo] t [qh] [tf] [qd] [ts] [qa] [ts]
-[0d] t [qk] J t j [0h] E ( E
-[9p] e [9h] [ef] [wd] [ys] [wd] [yf]
-[wa] y d [eud] s [wya] s
-[qo] t [qh] [tf] [qd] [ts] [qa] s t d 0 t
-[0k] J t j [0h] t 0 t [9tp] h f [wyd] s d f
-[wua] d [eud] s [wya] s [qto] [wyi] o
-[qtu] [wry] u [qet] [0wt] [0rt] [9et] [5wt]
+[8o] w t s w 8 [3ah] 0 j 3 [4h] [5qd] [8s] w t u y t w
+[qo] t [qh] [tf] [qd] [ts] [qa] [ts] [0d] t [0k] J t j [0h] E ( E
+[9p] e [9h] [ef] [wd] [ys] [wd] [yf] [Wa] y d [eud] s [wya] s
+[qo] t [qh] [tf] [qd] [ts] [qa] s t d 0 t [0k] J t j [0h] t ( t
+[9tp] h f [wyd] s d f [Wua] d [eud] s [wya] s [qto] [wyi] o [qtu]
+[wry] u [qet] [0wt] [0rt] [9et] 5 [wt]
 ```
 
 ## Toby Fox - Once Upon a Time
