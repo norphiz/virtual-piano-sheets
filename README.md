@@ -1,23 +1,3 @@
-## Bruno Wen-li - Suspended
-```
-Transposition +2
-
-[qp] t i f p [0os] t s h [qp] t i f s p [0os] t j h
-[qp] t i f p [0os] t s h [qp] t i f s p [0os] t d [os]
-[qp] t [if] [0f] t [us] [9p] e [io] [8o] w u
-[qp] t [if] [0f] t [us] [9p] e [io] [8s] w u
-[qp] t [uf] [0f] t [us] [9p] e [io] [8o] w u
-[qp] t [if] [0h] t j [uh] [9p] e [io] [8s] w u
-[qtph] s [80os] [qtph] s j [80h] [qtph] s [0tof] d s
-[9tyis] p s [wtyos] d f h
-[4j] 8 [eh] j [3h] 8 [wd] [2f] [8h] [qa] [1s] 8 [0s] d
-[4f] 8 f [es] f [3d] 8 [ws] d [2f] 8 f [qg] h [5d] 9 w
-[4j] 8 [eh] j [3h] 8 [wd] [2f] [8h] [qk] [1l] 8 0
-[4l] [8k] [eh] [3f] 8 [wj] k [2l] [8k] [qh] [1f] 8 0
-[2j] 6 q 3 8 w 4 8 [eh] [5h] 9 w h o d
-[8us] w [4et] 8 q [4Wt] 8 q [10wt]
-```
-
 ## C418 - Wet Hands
 ```
 Transposition -3
@@ -186,20 +166,6 @@ Transposition -5
 [8wl] [7r] [6eg] [7rh] [6es] [5wh] [6eg]
 [7rd] [8tf] [5wd] o p [wya] d [wes] [wrd] g
 [5wf] [5g] d a [ro] a [wod] [wyg] f [5wd] [8uf]
-```
-
-## Kaoru Okubo - Sekai (Piano Version)
-```
-Transposition -5
-
-[yh] [ip] d j [rh] [yo] [th] [uo] s l [eh] [tu]
-[yh] [ip] d j [rh] [yo] g f d [td] [uo] [ef] [tu]
-[yh] [ip] d j [rh] [yo] [th] [uo] s l [eh] [tu] f g
-[yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
-[9d] [yg] [yj] [7k] [ryo] h [rd] [8f] [th] [tk] [6l] [tuo] [tuo]
-[9d] [yg] [8j] [7k] [ryo] h [rd] [7f] [ruo] [rg] [eh]
-[yh] [ip] d j [rh] [yo] [th] [uo] s l [eh] [tu]
-[yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
 ```
 
 ## Rolf Løvland - Song from a Secret Garden
