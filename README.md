@@ -188,6 +188,38 @@ Transposition +2
 [8us] w [4et] 8 q [4Wt] 8 q [10wt]
 ```
 
+## Jun Ichikawa - Kioku
+```
+Transposition +2
+
+[4x] j z j l j [zxb] [3z] h l h k h [zxv]
+[4x] j z j l j [fjz] [3z] h l h k h [pdf]
+[9ti] o p [0yo] p a [qup] a s [30upd] f p o
+[4p] [wetu] f [3a] [wery] s a o [2p] [weti] a s d [1h] j [wruh]
+[4p] [wetu] f [3h] [werya] o [29p] [qet] [30] [Wryf] a
+[4p] [wetu] f [3a] [wery] s a o [2p] [weti] a s d [1h] j [wruh]
+[4p] [wetu] f [3h] [werya] o [6p] [0ey] o a [6p] [0eT] f h
+[4j] q [eu] h j [3h] 9 [wy] d [5f] 9 [wrh] [wa]
+[6s] 8 [wt] [ys] d [2f] 9 [qt] f [qd] f [3d] 9 [wr] [ws] d
+[4f] 8 [eug] [eh] [3H] 9 [Wr] j W [uk] [4j] 8 [eu] [eh] j
+[3h] 9 [wr] w [ud] r [5f] 9 [wrh] [wk]
+[6l] 8 [wtz] [wx] 2 9 [qt] 9 [rz] l [3k] 9 [ru] [wh] k
+[4l] 8 [eu] l k j [3H] 9 [Wuj] 9 [rk]
+[4x] 8 [eu] z l [5k] 9 [wrh] [uf] [6j] w t w y 8 t p o
+[4p] 8 [wetu] f [3a] 9 [wery] s a o [2p] 9 [weti] a s d [1h] [8j] [wruh]
+[4p] 8 [wetu] f [3h] 9 [werya] o [2p] 9 [Qet] 3 9 [Wryf] a
+[4p] 8 [wetu] f [3a] 9 [wery] s a o [2p] 9 [weti] a s d [1h] [8j] [wruh]
+[4p] q [wetu] f [3h] 9 [werya] o [6p] 0 [ey] o a [6p] 0 [eT] f h
+[4j] 8 [wetu] h j [4h] 9 [wery] d [5f] 9 [weryh] a
+[6s] 8 [wrtu] s d [2f] 9 [qet] f d f [3d] 9 [wery] s d
+[4f] 8 [wetug] h [3H] 9 [Wryj] [uk] [4j] q [wetu] h j
+[3h] 9 [wery] d [5f] 9 [weryh] k
+[6l] 8 [rtuoz] y [tx] w 2 9 [weti] z l [3k] 9 [wery] h k
+[4l] 8 [wetu] l k j [3H] 9 [Wryj] r [uk]
+[4x] 8 [wetu] z l [5k] 9 [wryuh] f
+[6j] 8 [wrtu] t y 8 6 [wrtu] [ix] z l [ok] h f [pdj] S
+```
+
 ## Kaoru Okubo - Sekai (Piano Version)
 ```
 Transposition -5
