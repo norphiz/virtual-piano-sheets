@@ -220,6 +220,27 @@ Transposition +2
 [6j] 8 [wrtu] t y 8 6 [wrtu] [ix] z l [ok] h f [pdj] S
 ```
 
+## Jun Ichikawa - Old Memory
+```
+Transposition +2
+
+[pl] z x v [oz] j k [il] z x c [tx] [px] z x v [oz] j k [il] k [oj] h [uf]
+[pl] z x v [oz] j k [il] z x c [tx] [yx] l l x [uz] k [il] k j
+[6s] [0d] [wf] [th] [5d] 9 [wp] [ra] [4s] [8d] [ef] [tg] [1f] 8 w
+[6f] [0d] [wf] [th] [5d] 9 [wp] [ra] [48es] a [59rp] o [8u] 0 t
+[6s] [0d] [wf] [th] [5d] 9 [wp] [ra] [4s] [8d] [0f] [eg] [8f] w t u
+[9f] [qs] [ts] f [0d] w [ya] [4s] [8a] [ep]
+[4j] [8f] [0f] [eh] [td] [8s] [0d] [wf] y u
+[4j] [8f] [0f] [eh] [td] [8s] [0h] [wf] y u
+[4j] [8f] [0f] [eh] [5z] 9 [rl] k [5l] [0z] [rx] [uk] [6l] 0 [wt]
+[7c] [qx] [el] [yj] g f s p [5s] 9 q t y o [5d] 9 w r y o
+[6l] [0z] [tx] v [5z] 9 [rj] k [4l] [8z] [ex] c [8x] 0 t
+[6x] [0z] [tx] v [5z] 9 [rj] k [48el] k [59rj] h [8f] 0 t
+[6l] [0z] [tx] v [5z] 9 [rj] k [4l] [8z] [ex] c [8x] 0 t
+[2x] [6l] [ql] x [3z] 9 [wk] [4l] [8k] [ej] s a p
+[upl] y t [tl] z x v [rz] j k [el] z x
+```
+
 ## Kaoru Okubo - Sekai (Piano Version)
 ```
 Transposition -5
