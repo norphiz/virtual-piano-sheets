@@ -241,6 +241,23 @@ Transposition +2
 [upl] y t [tl] z x v [rz] j k [el] z x
 ```
 
+## Jun Ichikawa - Sono Hi no Koto
+```
+Transposition +2
+
+[qto] e t u [qo] w y u [qo] e t u
+[0o] t y u [qtup] f j [0ah] d p o
+[9tp] [sg] s [8od] f h [qtup] f j
+[0dk] l k h d a o [9ei] [is] p i [5eyi] h d s p f h
+[qsj] t i h f [0od] r u s d [wf] y [od] a
+[eus] e u s d [9f] t i p s f [0d] r u o s d
+[qpf] t [ig] h [0H] r [yj] u k [qsj] t i h f
+[0od] r u s d [wf] y o d a [es] u o [9p] e [ia] s
+[0od] r [uf] h [qsj] t [uk] l [0fz] r [uk] H
+[4sj] 8 q e t u p 3 7 0 r y o a @ ( w E y i o P d g h J
+[9s] p i y [*O] i T r [8wru] a f h k x v
+```
+
 ## Kaoru Okubo - Sekai (Piano Version)
 ```
 Transposition -5
