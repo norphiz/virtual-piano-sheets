@@ -343,7 +343,7 @@ Transposition +3
 [6ps] 0 e [0up] [6tu] [0up] [eps] [0up]
 [5ya] 9 [wo] [9d] [5a] [9o] [wa] [9h]
 [4ti] 8 [qt] [8ti] [4ip] [8ti] [qip] [epg]
-[3sf] 8 [0s] [8f] [3sh] [8p] [0s] [ts]
+[3sf] 8 [0s] [8f] [3sh] [8o] [0s] [ts]
 [5ya] [7o] [9a] [wg] [5yh] [qi] [9o] [7ia]
 [1us] 5 8 5 1 5 8 5
 ```
