@@ -331,20 +331,20 @@ Transposition +3
 ## ShiZi - The Library
 ```
 [8sf] w t [wo] [8sf] [wdg] [tsf] [wos]
-[8ua] r [uh] [ra] [8f] [rh] [uf] [ra]
+[0ua] r [uh] [ra] [0f] [rh] [uf] [ra]
 [6ps] 0 e [0u] [6ps] [0ad] [eps] [0up]
 [5yo] 9 [wf] [9y] [5o] [9a] [wo] [9y]
 [4ti] 8 q [8p] [4t] [8i] [qtp] [8oa]
 [3us] 5 [8o] [5o] [3u] 5 [8s] [5o]
-[4id] 6 9 [6ip] [4yi] [9ps] [6ad] [9yi]
+[4id] 6 9 [6ip] [$yI] [9ps] [6ad] [9yI]
 [5dh] 9 [7ad] [9a] [5ad] [9g] [7d] [5o]
 [8sf] w t [wo] [8sf] [wdg] [tsf] [wos]
 [0ua] r [uh] [ra] [0f] [rh] [uf] [ra]
 [6ps] 0 e [0up] [6tu] [0up] [eps] [0up]
 [5ya] 9 [wo] [9d] [5a] [9o] [wa] [9h]
 [4ti] 8 [qt] [8ti] [4ip] [8ti] [qip] [epg]
-[3sf] 8 [0s] [8f] [3sh] [8o] [0s] [ts]
-[5ya] [7o] [9a] [wg] [5h] [qi] [9o] [7ia]
+[3sf] 8 [0s] [8f] [3sh] [8p] [0s] [ts]
+[5ya] [7o] [9a] [wg] [5yh] [qi] [9o] [7ia]
 [1us] 5 8 5 1 5 8 5
 ```
 
