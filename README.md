@@ -431,3 +431,17 @@ w e t i u t y y 5 9 w t [59wr]
 [4to] q e [et] [to] [et] [to] [et] o
 [yp] o p s g f s d d w y o s [wyoa]
 ```
+
+## Toby Fox - Berdly
+```
+Transposition +2
+
+p [eh] t [tp] [0G] t [tp] [eg] t [tp] [0f] 0 q
+[0p] [qd] e s [ea] [8s] e [eg] [Wf] r r 0 0 q 
+[0p] [eh] t [tp] [0G] t [tp] [eg] t [tp] [0f] 0 q
+[0p] [qd] e s [ea] [0s] W [WO] [ep] 0 8 6
+[qi] e [qf] [td] q s [ta] s [eu] 0 e [pf] [rD] Y
+[rs] [Ia] Y p [rO] p [ea] r [ed] D [Wf] r W
+[qi] 8 [qf] [ed] y s [ta] s [ej] [tf] u p d s
+[IpD] s [yua] O I O [tup]
+```
