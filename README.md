@@ -17,6 +17,23 @@ Transposition -3
 5 7 9 w 9 5 7 9 w w s [8o] w t y u y t w 8
 ```
 
+## C418 - Sweden
+```
+Transposition +2
+
+[29q] 3 [4wt] 6 [50w] 4 [1ry]
+[29qe] 3 [4wtu] 6 [50wr] 4 [1wry]
+[29qe] 3 [4wtu] 6 [50wr] 4 [1wry]
+[29qe] [3o] p [4wtu] 6 t y [50wr] 4 u o [1wry]
+[29qe] s [3p] o [4wtu] 6 t y [50wr] 4 o u [1wry]
+[29qe] [3o] p [4wtus] 6 [tf] [yd] [50wra] 4 [us] a [1wryo]
+[29qe] [3p] o [4wtu] 6 t y [50wr] 4 u o [1wry]
+[29qe] [3o] p [4wtu] 6 t y [50wr] 4 u o [1wry]
+[29qe] [3o] p [4wtus] 6 s d [50wra] [4f] u o [1wry]
+[6wtu] p o [29eyI] y t [59wr] t y [38qe]
+[6tuos] p o [29eyI] y [td] [5ryoa] s [td] y [4etip]
+```
+
 ## Eriko Imura - And I Begin To Wonder
 ```
 Transposition -5
