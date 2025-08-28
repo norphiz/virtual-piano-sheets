@@ -142,6 +142,20 @@ Transposition +3
 9 [qtl] [ak] [5pj] [qrh] [ak] [8oh] [0r] 8 [0e] 8 [0r] 8 [0e] [80ey]
 ```
 
+## Hiroshi Takaki - Rominisensu
+```
+Transposition -2
+
+c x l [ek] f j l k f [ih] s g
+v c x [oz] d h z x l [uk] a h [ik]
+j p g [sf] x z [yc] p [gc] v
+[gb] B b [lv] c x x i s o
+c [dx] l [pk] f j l k f [ih] s g
+v c x [oz] d k z x l [tk] [on] f
+[yl] k [ph] [uG] z k [ix]
+z s k [oj] k d h [pj] f [dz] k [Tpfj]
+```
+
 ## Junichi Masuda - Pallet Town
 ```
 Transposition -5
