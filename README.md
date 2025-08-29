@@ -8,13 +8,11 @@ Transposition -3
 [8a] 0 t y u y [td] [wf] q [ep] u o u t f h
 [^J] 9 q [ej] [tg] e [qs] [9d] ^ 9 q e t
 [^J] 9 [qj] e [tg] e [qs] [9d] ^ 9 q e t s
-[8o] 0 t y u y t w 8 0 t y u o s f
-[9pdg] q e [tf] [us] [oh] [pj]
-9 [qg] e t u d f [7g] 9 [qf] [eg] t j
-[80wtosf] d s [5d] 7 9 w r w 9 7
-5 7 9 w r w 8 [^J] [9j] [qh] [eg] [th] [eg] [qh] [9j]
-8 [0h] w t [ul] t w 0 [5k] [7h] [9d] [wa] [ro] [5d] [7a] [9o] [wy] r
-5 7 9 w 9 5 7 9 w w s [8o] w t y u y t w 8
+[8o] 0 t y u y t w 8 0 w t u o s f
+[9pdg] q e [tf] [us] [oh] [pj] 9 [qig] e t u d f
+[7g] 9 [qf] [rg] t j [80wf] y t [5y] 7 9 w r w 9 7 5 7 9 w r w 8
+[^J] [9j] [qh] [eg] [th] [eg] [qh] [9j] 8 [0h] w t [ul] y t w
+[5k] [7h] [9d] [wa] [ro] [5d] [7a] [9o] [wy] r 5 7 9 w w 5 7 9 w 9
 ```
 
 ## C418 - Sweden
@@ -378,8 +376,9 @@ Transposition +3
 Transposition -3
 
 8 w t y w t y 0 w t o w t y
-( w t y w t y w t o 8 w t y w t y
-0 w t y w t y q e t o e t y s a o t y t
+( w t y w t y w t o
+8 w t y w t y 0 w t y w t y
+q e t o e t y s a o t y t
 8 w t y w t y 0 w t y w t y
 ( w t y o y t ( w t [9y] o w t
 8 w t y w t o 0 w t o i u t
