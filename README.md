@@ -295,6 +295,22 @@ Transposition -5
 [yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
 ```
 
+## Ludwig van Beethoven - Piano Sonata No. 14 (I. Adagio Sostenuto)
+
+```
+Transposition -8
+
+[6eu] p s u p s u p s u p s
+[5wu] p s u p s u p s u p s
+[4qi] p s i p s [29i] P d i P d
+[30u] O d u p s [30u] p a y o a
+[60et] u p u p s u p s [uf] p s f
+[%0Wuf] a d u a d u a d [uf] a d f
+[6euf] p s u p s [29ig] p d i p d
+[5wuf] o s u o s [5wid] o a [ih] o a
+[8tus] o s u o s u o s u o s
+```
+
 ## Rolf Løvland - Song from a Secret Garden
 ```
 Transposition +3
