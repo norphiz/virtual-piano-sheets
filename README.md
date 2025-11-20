@@ -295,6 +295,19 @@ Transposition -5
 [yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
 ```
 
+## Kumiko Noma - Lilium
+```
+Transposition -3
+
+j x [WfHk] u a [ul] [efjl] u [sj] [ux] [WfHk] u a [ul] [ez] [ul] [qsgj]
+t p t q [rdk] [odh] [rdg] [0adh] r o u e [usj] [psg] [usf]
+[9dg] [qdh] [edj] y ( [Qk] [el] [yz] [0l] e t u [uOaHk]
+j x [WHk] u a [ul] [el] [sj] [ux] [WHk] u a [ul] [ez] [ul] [qsgj]
+t p t q [rdk] [odh] [rdg] [0adh] r o u e [usj] [psg] [usf]
+[9ydg] z [(Yl] k [0uj] H [30G] h [epsfj] [epjL] [rakz] [TSlx]
+[yc] i p [dl] p i [wk] r y [oc] y r [tx] u o [sv] o u [el] t u [px] u t
+```
+
 ## Ludwig van Beethoven - Piano Sonata No. 14 (I. Adagio Sostenuto)
 
 ```
