@@ -408,8 +408,10 @@ Transposition +4
 i o p s f h l x v c x l h g f s o i u t w q
 [pj] [ak] [wtiosl] [sl] [ak] [sl] [wyoadz]
 h v c x z l k j h g f d s a p o i u i
-[qwto] s a s [0wro] s a [to] u i [9o] e s y [ia] s [0eyd] [ts] [uf]
-u i [qo] t s y [ua] s [0wro] s a [to] o [9p] e a t s [wyia] o [eya] p [60yp] p S f j
+[qwto] s a s [0wro] s a [to]
+u i [9o] e s y [ia] s [0eyd] [ts] [uf]
+u i [qo] t s y [ua] s [0wro] s a [to]
+o [9p] e a t s [wyia] o [eya] p [60yp] p S f j
 [uf] [ig] [4oh] 8 [qsl] w [eak] [sl] [3oh] 7 [sl] 9 [wak] [roh]
 [uf] [ig] [2oh] 6 [8sl] q [eak] [sl] [6dz] 0 w [tsl] [ufx] 5
 [uf] [ig] [4oh] 8 [qsl] w [eak] [sl] [3oh] 7 [sl] 9 [wak] [roh]
