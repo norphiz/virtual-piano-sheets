@@ -401,6 +401,26 @@ Transposition +3
 [1us] 5 8 5 1 5 8 5
 ```
 
+## Takeshi Watanabe - Sentimental
+```
+Transposition +4
+
+i o p s f h l x v c x l h g f s o i u t w q
+[pj] [ak] [wtiosl] [sl] [ak] [sl] [wyoadz]
+h v c x z l k j h g f d s a p o i u i
+[qwto] s a s [0wro] s a [to] u i [9o] e s y [ia] s [0eyd] [ts] [uf]
+u i [qo] t s y [ua] s [0wro] s a [to] o [9p] e a t s [wyia] o [eya] p [60yp] p S f j
+[uf] [ig] [4oh] 8 [qsl] w [eak] [sl] [3oh] 7 [sl] 9 [wak] [roh]
+[uf] [ig] [2oh] 6 [8sl] q [eak] [sl] [6dz] 0 w [tsl] [ufx] 5
+[uf] [ig] [4oh] 8 [qsl] w [eak] [sl] [3oh] 7 [sl] 9 [wak] [roh]
+[oh] [2pj] [6ak] [8sl] [qdz] [5sl] 9 [qak] [6ak] 0 w [rpj] [ypj]
+[8tuo] w t [9is] [es] t a [0os] t u [qip] [ra] [ts] [yd]
+[wuf] t [ud] t [eos] t [uo] t [9ip] e [td] [woa] [eps] [rad] z
+[8sfl] w t [9sgl] [eak] [tsl] [dz] [0rfhx] [wrdgz] [etsfl] [sl] [ak]
+[9pgj] e [tdz] [0ahk] r y [rak] [qsjl] t [ohv] [whv] y [igc] [8gc]
+[wfx] [tsl] [toh] [eig] [wuf] [qts] [8wo] 1 5 8 0 t u s
+```
+
 ## Toby Fox - Home
 ```
 Transposition -3
