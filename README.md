@@ -40,6 +40,21 @@ Transposition -5
 [qd] [uopd] s [6a] [yuoa] s [7ypd] [tyipdj] [odh] [4pfj] [tuo]
 ```
 
+## Erik Satie - Gymnopédie No.1
+```
+Transposition +2
+
+4 [etu] 1 [wru] 4 [etu] 1 [wru]
+4 [etuf] h [1g] [wruf] a [4p] [etua] s [1o] [wru]
+[4u] [etu] 1 [wru] 4 [etu] 1 [wru]
+4 [etuf] h [1g] [wruf] a [4p] [etua] s [1o] [wru]
+[3a] [wru] [6f] [etu] [2y] [qe] 2 [eti] 1 [0wt]
+[5o] [wryp] P [1d] [qeys] p [1s] [8qeyP] p [1s] [79wt]
+1 [70wt] s [1d] [wEYD] g [1h] [wryP] s [1d] [8qeys] p [1s] [79wt]
+1 [70wt] s [2g] [eyi] [3f] [wru] [6p] [etuo] p [2a] [ryos] d
+[2a] [wruos] d [2u] [6wt] [9eti] [5qryoa] [158tuos]
+```
+
 ## FKJ - Ylang Ylang
 ```
 Transposition +1
