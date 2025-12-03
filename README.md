@@ -40,7 +40,7 @@ Transposition -5
 [qd] [uopd] s [6a] [yuoa] s [7ypd] [tyipdj] [odh] [4pfj] [tuo]
 ```
 
-## Erik Satie - Gymnopédie No.1
+## Erik Satie - Gymnopédie No. 1
 ```
 Transposition +2
 
@@ -346,7 +346,7 @@ j x [WfHk] u a [ul] [efjl] u [sj] [ux]
 j x [WHk] u a [ul] [el] u [sj] [ux]
 [WHk] u a [ul] [ez] [ul] [qsgj] t p t q
 [rdk] [odh] [rdg] [0adh] r o u e [usj] [psg] [usf]
-[9ydg] z [(Yl] k [0uj] H [30G] h [epsfj]
+[9ydg] z [(Yl] k [0uj] H [30G] H [epsfj]
 ```
 
 ## Ludwig van Beethoven - Piano Sonata No. 14 (I. Adagio Sostenuto)
