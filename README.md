@@ -77,7 +77,7 @@ Transposition +1
 [8a] d a f p
 ```
 
-## Frédéric Chopin - Nocturne in E♭ Major (Op. 9 No. 2)
+## Frédéric Chopin - Nocturne in E♭ Major (Op. 9, No. 2)
 ```
 Transposition +3
 
@@ -87,6 +87,20 @@ o [1f] [0t] [wtu] 8 [qrd] [Wrf] [1d] [0t] [wtu] [7s] [0t] [wtuo] [6f]
 [9k] [wtij] [5h] g [9rf] g [wip] a [1s] [0t] [wtu] 8 [0t] [wtu]
 [1us] [wo] [5f] [8us] [wo] [5f]
 [1us] [wo] [5f] [8us] [wo] [5f] [80us] [tol] [150t]
+```
+
+## Frédéric Chopin - Waltz in A minor (Op. Posth, B. 150)
+```
+u
+[6p] a [etus] [etus] [2d] f [eyig] [eyi]
+[5a] s [wrid] j [wrih] g [8f] D [wtuf] [wtu]
+[6p] a [etus] [etus] [2d] f [eyig] [eyi]
+[5a] s [wrid] j [wrih] a [8s] [wtu]
+u
+[6p] a [etus] [etus] [2d] f [eyig] [eyi]
+[5a] s [wrid] j [wrih] g [8f] D [wtuf] [wtu]
+[6s] d [etuf] [etuf] [2g] h [eyj] [eyi]
+[5h] [wriG] h [wriz] g [8f] [wtu] [wtu]
 ```
 
 ## Go Ichinose - Verdanturf Town
