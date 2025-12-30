@@ -195,6 +195,17 @@ v c x [oz] d k z x l [tk] [on] f
 z s k [oj] k d h [pj] f [dz] k [Tpfj]
 ```
 
+## Hervé Roy - Lover's Theme
+```
+Transposition +3
+
+6 0 r 0 t 0 w e 4 t o t p t i u
+[6p] 0 [ea] [ts] [ef] [tp] [eo] [tu] [6i] q t [qs] [ts] q w t
+[5a] 9 [qs] [rd] [qj] [rh] [qd] [9g] [18g] w [tf] [uf] [39] W r u
+[6p] 8 [0a] [es] [5f] [8j] [0k] [el] [4l] 8 w [eg] [qg] e [30] e
+[2j] q e [td] [ed] t f e g q [30a] 7 s 9 d W [9g] W [9f] 7
+```
+
 ## Junichi Masuda - Pallet Town
 ```
 Transposition -5
