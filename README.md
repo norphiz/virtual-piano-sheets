@@ -89,7 +89,7 @@ o [1f] [0t] [wtu] 8 [qrd] [Wrf] [1d] [0t] [wtu] [7s] [0t] [wtuo] [6f]
 [1us] [wo] [5f] [8us] [wo] [5f] [80us] [tol] [150t]
 ```
 
-## Frédéric Chopin - Waltz in A minor (Op. Posth, B. 150)
+## Frédéric Chopin - Waltz in A Minor (Op. Posth, B. 150)
 ```
 u
 [6p] a [etus] [etus] [2d] f [eyig] [eyi]
@@ -101,6 +101,18 @@ u
 [5a] s [wrid] j [wrih] g [8f] D [wtuf] [wtu]
 [6s] d [etuf] [etuf] [2g] h [eyj] [eyi]
 [5h] [wriG] h [wriz] g [8f] [wtu] [wtu]
+```
+
+## Frédéric Chopin - Waltz in A♭ Major (Op. 69, No. 1)
+```
+Transposition -4
+
+h G [eg] h g [tif] g [tij] h [wg] [ru] [ruf] w [EuS] d [Euf]
+h g [qf] [ey] [eyd] [qd] [ey] s [eys]
+a p [wp] [tu] [tuo] 5 o [wyik] j [wrih] g [8D] [wtu] [wtuf]
+e g [tiz] l [tij] g [wg] [ri] [ruf] [wS] d S s S [Euf]
+h j [EuJ] S S [qf] [eu] [eyd] [qd] [ey] s [eys]
+a p [5p] [wtu] [wtuo] [5o] p o [wrI] o [wyipg] [af] [8s] [wu]
 ```
 
 ## Go Ichinose - Verdanturf Town
