@@ -488,6 +488,27 @@ o [9p] e a t s [wyia] o [eya] p [60yp] p S f j
 [wfx] [tsl] [toh] [eig] [wuf] [qts] [8wo] 1 5 8 0 t u s
 ```
 
+## Takeshi Watanabe - Warm Feelings
+```
+Transposition -3
+
+[8lxv] w [tyu] 8 w [tyu] h c x [8jc] e [tiphx] l 8 e [tip] j h g [8oaf] w
+[tyudfhk] w 8 w [tyu] j k l z [qHlx] t i [iO] z [wthlx] [wrhkzc] v h h j [8k] w
+[tyuosdf] w 8 w [tyu] d f [6d] 0 [wetuos] 0 6 0 [wet] j k [9l] e [yipsg] 6 9 e
+[yip] f g [9f] W [yiOsd] % 9 W [yiO] s h j [8k] w [tyuaf] 8 7 5 9 [wry] y d a
+[6a] 0 [wetus] 3 6 0 [wet] j h g [9f] e t [uip] d [9f] e t [uip] g [9d] s [5d]
+9 w e [th] i o p [akzv] 5 h j k [8sfhl] w [yfl] [udk] y [tfhl] w [7adh] w r y
+[rh] [wj] k [60sfhl] [efl] [tdk] u [sfhl] t [5osfh] 0 t u [th] [wx] [0z]
+[4sfjl] 8 [qsl] e t [uak] [sl] [0dz] [tsl] [yak] [oh] y t [oh] [9ig] [euf] [ts]
+[yig] [uf] [pj] [sl] [fx] 5 [9gc] [wdz] e [tyi] [oh] [pj] [ak] [8sfhl] w [tsl]
+[uak] o u [ysl] t [9ish] e t i o [toh] [epj] [tak] [0sfhl] t [ysl] [uak] o u
+[tsl] u [qhlxv] t o O [sfhv] c x c [osflv] s [Oaflv] m l m l c x c [osflxv]
+[lm] [Oafz] [lm] [kn] [lm] c x l h g [wtyuf] s l s [Wtyul] J H h g f g f d s O
+[0o] t u [os] u [oh] [tpj] [uak] [(sGjl] t Y [Isjl] p [Idz] [Yfx] [tgc] [9hlxv]
+e t [ic] x l [ph] g f s o i u [5we] [wips] [yoadhk] [oadhkz] [sl] [WsgHl]
+[EdhJ] [WsgH] [wsfh] [qsg] [8oaf]
+```
+
 ## Toby Fox - Home
 ```
 Transposition -3
