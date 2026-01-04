@@ -358,6 +358,28 @@ Transposition +2
 [9s] p i y [*O] i T r [8wru] a f h k x v
 ```
 
+## Joe Hisaishi - One Summer's Day
+```
+[4eru] f f f f d f j [5f] [qd] d w y
+[10ey] d d d d s d h [1d] [6s] [9a] [ws] p a
+[9eis] s s s [yis] p a [0yuos] s s s [ta] s p a
+[qts] s s s [is] h g D [wtyid] [ruf] [rig]
+[4dh] [8dh] q [eph] [3ah] [7dg] [0sf] [wad]
+[6ad] [0sf] [ps] e t [5yi] e [8wrtu] [uf] [ig]
+[4dh] [8dh] [qdh] [eph] [3ah] [7dg] [0sf] [wad]
+[6ad] [0sf] e t u t [ups] [td] [2sf] 6 9 [qp] [es] Q t e
+[59etu] [eti] [59qey] s d [9etaf] p s [5tyip] 9 q e y j k f
+[el] [ul] [sz] [ul] [wk] u [af] [uh] [qj] [tj]
+[ph] [tg] [0h] t o o [0wto] i i Y [9qti] t i
+[0ruo] [rO] [59eyo] [pj] [ak]
+[6jl] [0jl] [tdz] [0sl] [5hk] 0 [ruf] [0oh]
+[4fj] [8fj] [eoh] [0ig] [3dh] 8 w [oh]
+[0oh] [wig] [tig] [wYO] [9ig] q [toh] [qOH]
+[(PJ] [qOH] [EOH] [qoh] [8OH] 0 [roh] [OH] 0 [PJ]
+[4jl] 8 W 8 @ 8 [wOH] [8PJ] [2jl] 9 q W t
+[esl] [qak] [esl] [5dz] 9 w r y h l k [qerul]
+```
+
 ## Kaoru Okubo - Sekai (Piano Version)
 ```
 Transposition -5
