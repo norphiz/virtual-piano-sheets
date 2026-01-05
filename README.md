@@ -274,13 +274,12 @@ Transposition -5
 ```
 Transposition -5
 
-[qj] h g [wf] d f g [0h] g f [rg] f d [ed] w [es] r t r
-[td] f [9g] h [eg] f [yg] d [8p] d [7g] f
-[6d] s [5a] h [9g] f [wg] d [qa] d [0g] j
-[9h] g [8sf] g [wf] d [tf] s [ro] s
-[ef] s [wg] h [qj] J [tj] h [ij] g [us] g
-[yj] g [tk] l [rz] g [wf] d [tf] g [uh] s
-[of] d [ws] a [ts] i u y u o [ws] a [8a] s
+[qj] h g f [ed] y f g [0h] g f [rg] f d [ed] [ws] e r t r
+[td] f [9g] h [eg] f [yg] d [8p] d [7g] f [6d] s [5a] h
+[9g] f [wg] d [qa] d [0g] j [9h] g [8sf] g [wf] d
+[tf] s [ro] s [ef] s [wg] h [qj] J [tj] h [ij] g
+[us] g [yj] g [tk] l [rz] g [wf] d [tf] g [uh] s
+[of] d [ws] a [ts] i u y u o [ws] a a [8s]
 ```
 
 ## Jun Ichikawa - Suspended
