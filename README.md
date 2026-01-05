@@ -149,19 +149,34 @@ o s d [8f] w u [wg] [0d] r o [rf] [ea] u W
 [4ips] % 8 q W t i O c V [sm] b c l H g s O
 ```
 
-## Hiroyuki Sawano - Ad la Lib
+## Hiroyuki Sawano - AdラLib
 ```
 Transposition -2
 
-[6l] [rt] l k x j [2l] [46] l j v c
-[5k] [0w] k b v z [8x] [rt] f h l z j
-[4x] [qe] [fx] [ak] [3ak] [wy] [dz] k l
-[6l] [0t] a s g f 6 0 f [6l] [rt] [rt] [fl] [ak] [rdz] [fx] k
-[5k] [wy] [ak] [wyhv] [gc] [wy] [fx] [dz] [4fx] z x
-[rt] j l [rz] [rt] l [3fk] [57w] [5oh] [57w] h f
-[2h] j [90q] j [9fx] [9hv] [fx] [6sl] [rt] [fl] [erz] l
-[5hk] f [4gj] [tyu] [qt] p [qts] a [0wa] u [350] j [4gl]
-[46qe] l k j [5hx] [9wry] [ak] [sl]
+f
+[6l] [rtu] l k x j [2l] [qe] l j v c [5k] [wru] k b v z
+[1x] [rtu] f h l z j [4x] [qe] [fx] [ak] [3ak] [wry] [dz] k l
+[6l] [rtu] [pa] s g f 6 0 f [6l] [rtu] [rtu] [fl] k [rtuz] x k
+[5k] [wry] [ak] [wryhv] [gc] [wry] [fx] [dz] [4fx] z x [rtu] j l
+[rtuz] [rtu] l [3k] [0wr] [0wrah] [0wr] h f [2h] j [0qe] j
+[0qefx] [hv] [0qe] x [6fl] [rtu] [fl] [rtuz] l [5wk] f
+[4qj] [qtu] [qt] p [qts] a [0ryua] u 3 j [4fl] [qetu] l k j
+[5x] [wry] [ak] [sl] [6sfl] [rtu] [sl] [rtuhv] [gc] [rtu] [fx] [dz]
+[4fx] [dz] [fx] [qetu] [pj] 5 [ak] [sl] [wrydz] [sl] [ak]
+[6sl] [rtuak] [etuoh] [et] u u [4fl] [qetu] [fl] k j [5x]
+[wry] [ak] [hv] 6 [rtugc] [rtufx] [dz] [sl] [rtusl] [ak] [pj]
+[4pj] [qet] k l [5l] k [wry] l [etul] [etu] [etuaf] [ag] [etu] h f
+[wypf] [wy] [wysf] p [dg] [wy] [fh] [dg]
+[qtsf] [qt] j [qth] f g [qtf] d d [wyf] [wy] p u
+[6a] u t a u t a u t a u t [5a] u t p t u a t u s t u
+[4s] t u s t u s t u s t u s t u a t u s t u d
+[6f] u p [0f] u p [ef] u p [0f] u p [rf] u p [0d] u p [tf] u p [0g]
+[5f] u p [0f] u p [wf] u p [0f] u p [ef] u p [0d] u p [rf] u p [0g] u p
+[4f] u p [8d] u p [qs] u p [8d] u p [ef] u p [8d] u p [qs] u p [8au] p
+[3s] u p [7d] u p [0f] u p [7d] u p [0s] u p [7a] u p [0s] u p [7d]
+[3t] w t [6w] t [3t] w t [6w] t [3t] w t [6w] t [3t] w t [6w] t
+[5t] w t [3w] t [5t] w t [3w] t [5t] w [tu] 3 [yi] [5uo] [yi] 3 [tu]
+[4tu] 1 [4y] 1 [4t] 1 [4r] 1 [5r] t [3t] [Wr] [6b] x x c z [fx]
 ```
 
 ## Hitomi Sato - Undella Town
