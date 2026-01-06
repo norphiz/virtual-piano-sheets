@@ -458,13 +458,12 @@ a s h [4j] 6 q j [4j] [9k] [wh] g [3h] 5 7 9 6 [9a] [0s] f [2g]
 ```
 Transposition -3
 
-[isdhj] x v [osdhj] x v [uadhj] v b [pfhlzx] [ofhhx] z l k
-[isdhj] x v [osdhj] x v [uadhj] z l k [psdh] f d s a
+[isdhj] x v [osdhj] x v [uadhj] v b [pfhlzx] [ofhx] z l k
+[isdhj] x v [osdhj] x v [uadhj] z l k [padh] f d s a
 [qop] t i f h [4q] [5wyop] [yo] [af] [dh] y o d
 [0yop] r y o [adh] [sdj] [eosf] u o a [wpf] d [uos] a
 [9yip] e t e [yip] [qeipd] [29] [30yoa] r y o [oa] r
-[yoad] [30] [4quops] t i e t i p [4qs]
-[5wyos] a k l [psfl] [odfk] h [idfj]
+[yoad] [30] [4quops] t i e t i p [4qs] [5wyos] a k l [psfl] [odfk] h [idfj]
 ```
 
 ## Shota Kageyama - Farewell
