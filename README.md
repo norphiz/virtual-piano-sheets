@@ -655,3 +655,23 @@ p [eh] t [tp] [0G] t [tp] [eg] t [tp] [0f] 0 q
 [qi] 8 [qf] [ed] y s [ta] s [ej] [tf] u p d s
 [IpD] s [yua] O I O [tup]
 ```
+
+## Toby Fox - Empty Town
+```
+[ep] u [us] f [el] u [uk] [wh] u [ud] [wf] u u
+[qf] t [tg] h [qg] t [tf] [0d] r [rs] [0f] r r
+[9p] e [es] f [9l] e [ek] [8h] w [wd] [8f] w w
+[^f] q [qg] h [^g] q [qf] [0d] e [es] [0f] W W
+[etp] u [ups] [af] [efl] u [ufk] [wdh] u [uad]
+[wpf] u [uo] [qpf] t [tpg] [ah] [qsg] t [taf]
+[0od] r [rus] [0af] r t y r [9ip] e [eis] [of]
+[9pl] [eo] [eik] [8uh] [wd] s [wad] p [8of] w w
+[7pf] q [qag] [sh] [7ag] q [qpf] [0pd] e [eos] p [0af] W W e
+[udk] [fl] [udk] [sj] [eaf] [ups] [uaf] w
+[udk] [fl] [udk] [sj] [waz] u u q
+[uhk] [jl] [uhk] [gj] [qhk] t [ujl] [tfh] j [ofh] [dg]
+[osf] [dg] [osf] i o i o u i u y E
+[ysf] [dg] [isf] [ad] [EiP] [ryi] [idg]
+[esf] t [ad] [ups] [ad] [esf] t [ups]
+[raD] [YIa] [tip] [QrY] I [IaD] [upf] a [aO] p i [uO] y t y t w
+```
