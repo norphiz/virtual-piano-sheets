@@ -463,7 +463,8 @@ Transposition -3
 [qop] t i f h [4q] [5wyop] [yo] [af] [dh] y o d
 [0yop] r y o [adh] [sdj] [eosf] u o a [wpf] d [uos] a
 [9yip] e t e [yip] [qeipd] [29] [30yoa] r y o [oa] r
-[yoad] [30] [4quops] t i e t i p [4qs] [5wyos] a k l [psfl] [odfk] h [idfj]
+[yoad] [30] [4quops] t i e t i p [4qs] [5wyos] a k l
+[psfl] [odfk] h [idfj]
 ```
 
 ## Shota Kageyama - Farewell
