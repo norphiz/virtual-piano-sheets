@@ -47,16 +47,16 @@ Transposition -1
 [wtiod] q r y t [ro] 5 r [wy] t y [8yu] w t [ush] t
 [8osf] w t [ush] t o u [8rya] w t [ya] t [wo] 8 w r [yh] r [wh]
 [4sh] g [tf] [ig] o i [tf] [qwtpf] [id] [os] [td]
-[5qad] w r y r i [qr] w t [qwr] y t
-[6uop] e t [osh] [6o] [5tyo] w r [yah] [wh]
-[4sfh] [tg] [if] [og] i [tf] [5osd] w r y r w
-[6tup] e [tp] [ysh] e [5tyo] w [ro] [yh] r [wh]
+[5qad] w r y r i [qr] w t [qwr] y w [6uop] e t [osh] [6o]
+[5tyo] w r [yah] [wh] [4sfh] [tg] [if] [og] i [tf]
+[5osd] w r y r w [6tup] e [tp] [ysh] e
+[5tup] e [tp] [ysh] e [5tyo] w [ro] [yh] r [wh]
 [4sfh] t g i [uo] [ih] [tj] [5qsdh] w a w [9d] 5
 [1fl] 8 [0hk] w [0fj] 8 [3fl] 0 [whk] r [wfj] 0
 [4ghl] 8 q w q 8 [5hlz] [wl] [rk] [yj] [rh] [wg]
-[1fl] w [thk] o [tfj] w [3fl] 0 [rhk] o [rfj] 0
-[4ghl] 8 q e y t [5hlz] [9l] [wk] [%H] [0h] [5g]
-[6fl] e [thk] o [tfj] e [5dl] w [rhk] y [rdj] w [4ghl] t u o i t
+[1fl] w [thk] o [tfj] w [3fl] 0 [rhk] o [rfj] 0 [4ghl] 8 q e y t
+[5hlz] [9l] [wk] [%H] [0h] [wg] [6fl] e [thk] o [tfj] e
+[5dl] w [rhk] y [rdj] w [4ghl] t u o i t
 [5hlz] [9l] [wk] [5j] [9h] [wg] [6fhl] e [tfgk] u [tj] e
 [5fgl] w [rshk] y [rfj] w [4sghl] 8 [qopsdf] w [qts] 8
 [5dz] [7sl] [9ak] [wpj] [9oh] [5ig] [8uf] w t [osd] 8
