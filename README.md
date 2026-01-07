@@ -35,6 +35,7 @@ Transposition +2
 ## Chima - Hajimari no Shirushi
 ```
 Transposition -1
+
 [tyoaf]
 [8tu] w t y t [ruo] w t [ty] t w
 [4ei] t i o i t 5 w t [qry] t w
