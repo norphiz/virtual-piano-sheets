@@ -180,6 +180,22 @@ o s d [8f] w u [wg] [0d] r o [rf] [ea] u W
 [4ips] % 8 q W t i O c V [sm] b c l H g s O
 ```
 
+## Go Ichinose - Canalave City (Day)
+```
+Transposition -3
+
+5
+8 w t y u t y w 8 w t y u [to] [ys] [wd]
+[8osf] w [tad] [ysf] u [tdg] y [wafh] 0 r u I o u [If] [ug]
+[7adh] q y T u [yh] [ij] [uf] [6sfh] q [tsg] y [upf] y [tish] q
+[6psg] q t [ydh] Y y [tsg] q [5osf] w t [yfhl] u y t w
+[4ipd] 9 e [ygjl] I y [ed] t [5s] [9a] [ep] [wa] r [eo] [th] [rg]
+[8osf] w [tad] [ysf] u [tdg] y [wafh] 0 r u I o u [If] [ug]
+[7adh] q y T u [yh] [ij] [uf] [6sfh] q [tpg] y [ipf] u [sh] o [pg] i
+[6psg] [qps] [tsg] [ydh] [YH] [ydh] [tsg] [5osf] w [tos] [ygk] u [yhl] t w
+[4ipd] 9 e [wip] [rdk] e [gl] y [sj] t [5ps] 9 e [woa] [ip] [roa]
+```
+
 ## Hiroyuki Sawano - AdラLib
 ```
 Transposition -2
