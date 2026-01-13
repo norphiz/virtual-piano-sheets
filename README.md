@@ -429,6 +429,12 @@ Transposition +2
 
 ## Joe Hisaishi - One Summer's Day
 ```
+[isghjx] [uadhl] [ypsgJ] [TIafjz]
+[qru] f f f f d f j f d d
+[eyo] d d d d s d h d s a s p a
+[wtis] s s s s p a
+[qrus] s s s a s p a
+[0eys] s s s s h s [9wtd] [0ey]
 [4eru] f f f f d f j [5f] [qd] d w y
 [10ey] d d d d s d h [1d] [6s] [9a] [ws] p a
 [9eis] s s s [yis] p a [0yuos] s s s [ta] s p a
