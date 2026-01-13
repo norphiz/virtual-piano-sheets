@@ -292,22 +292,14 @@ Transposition +3
 ```
 Transposition -5
 
-[th] [ug] [of] [ud] [el] [uj] [rk] [uj]
-[th] u o [uf] [rs] [us] [ed] [uf]
-[qg] t i t w [ya] [os] [yd]
-[8f] w t [wg] f [5d] 9 w r
-[th] [ug] [of] [uh] [el] [uk] [rk] [ul]
-[tj] u o [uh] [rh] u e u
-[qg] [tf] [id] [ts] [wh] [yg] [of] [yd]
-[8s] w t w 8 s [wd] f
-[qg] t [ig] t [wh] y o [yg]
-[8f] w t y u s [td] f
-[qg] t [ig] t [wh] y o [yg] h
-[8f] w t y u f [td] s
-[9d] e y i [ip] e [of] y
-[9d] e y i [is] e [ip] e
-[5a] 9 w [9y] [6s] 0 [ef] 0
-[5f] 9 w g f [5d] 9 w r y o a d [txm]
+[tuh] g [if] [eod] l [tj] [rok] [ij] [tuh] t [yof] s [os]
+[tid] [uf] [eg] u i [ru] i a [es] d [tf] u i [eyg] f [ud] t [wy] r
+[tuh] g [if] [eoh] l [sk] [rok] [il]
+[tuj] t [yoh] h o [ts] a [epg] f [od] [ris] h [yg] [yuf] [id]
+[tos] i u [ey] t s [wrd] f [qig] t e t [woh] y r [yg]
+[tuf] t w t [eu] [ts] [wd] [tf] [qig] t [eg] t [woh] y r [yg] h
+[tuf] t w t [yu] [tf] [wtd] [ts] [eyd] e q e [yp] e [qf] e [eyd] e q e
+[tys] e [qp] e [ra] w 0 w [ets] w [0f] w [etf] w 0 w [rd] w 0 w
 ```
 
 ## Johann Sebastian Bach - Jesu, Joy of Man's Desiring
