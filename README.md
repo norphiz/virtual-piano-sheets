@@ -491,6 +491,24 @@ Transposition -8
 [8tus] o s u o s u o s u o s
 ```
 
+## Masara Nishida - Setsuna, Nukumori
+```
+[qeta] p [wrys] a s e t u p d f d
+[qeta] p [wrys] a o e t u o
+[9qe] i u i p [0wro] i u
+[qet] i o p y [6u] 0 e
+[9qe] i u i p [0wro] i u q
+[ei] o [tp] a [wyos] d s [wa] D g
+[WD] t [ud] s [EP] y [id] r
+[yd] s [id] D g d [tD] [ud] [os] D g
+[WD] t [ud] s [EP] y [id] t [us] d [oD] g h J
+[qj] t [ih] g [wh] r y o a
+[qeta] p [wrys] a s e t u d f d
+[qeta] p [wrys] a o e t u a s d
+[qeta] p [wrys] a s e t u d f d
+[qeta] p [wrys] a o e t u p f
+```
+
 ## Rolf Løvland - Song from a Secret Garden
 ```
 Transposition +3
