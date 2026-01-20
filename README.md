@@ -461,6 +461,24 @@ Transposition -5
 [yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
 ```
 
+## kaoru Okubo - Sekai
+```
+Transposition -3
+
+s a s d s d f g G
+[9h] [ips] d j 9 [7h] [ioa] 7
+[8h] [uoa] f l 7 [6h] [uos] 6
+[9h] [ips] d j 9 [7h] [ioa]
+[7h] g f [8d] [uoa] 8 [6f] [uos] 6
+[9h] [ips] d j 9 [7h] [ioa] 7
+[8h] [uoa] f l 8 [6h] [uos] 6 f g
+[9h] [ips] d j 9 [7h] [ioa]
+[7h] g f [8d] [ios] [uos]
+[6h] [uoa] 6 [9l] [ips] j g 9 [7d] [ioa]
+[7h] k l [8z] [ios] 5 8 [ios] [wl] k
+[8l] [uos] 5 [8uos]
+```
+
 ## Kumiko Noma - Lilium
 ```
 Transposition -3
