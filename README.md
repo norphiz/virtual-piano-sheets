@@ -461,7 +461,7 @@ Transposition -5
 [yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
 ```
 
-## kaoru Okubo - Sekai
+## Kaoru Okubo - Sekai
 ```
 Transposition -3
 
