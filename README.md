@@ -99,7 +99,7 @@ Transposition +1
 [8a] a [0wrd] [8p] [0we] f h k z [8k] z k x [8j]
 [4fx] [etu] [4dz] [ety]
 [4fx] [hv] [etuf] D [4d] [etyd] D f
-[1a] [0wr] [ak] [8j] [0we] u o a d
+[1a] [0wr] [ak] [8p] [0we] u o a d
 [1a] d [8a] d f [0wep] p a d f
 [4f] [qfx] [qdz] [ety]
 [4fx] [jb] q [lm] m m m m m [etydz] [qd] D f
