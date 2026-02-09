@@ -90,22 +90,20 @@ Transposition +2
 ```
 Transposition +1
 
-[qx] [etx] [qz] [ety]
-[qx] [jb] [etf] D [qd] [etd] D f
-[8a] [0wa] [8p] [0we] u o a d
-[8a] d [0wa] f [8p] [0we] p a d f
-[qf] [etx] [qz] [ety] s d
-[qx] [hv] [etu] [jb] f [qz] [etd] D f
-[8a] [0wd] [8p] [0we] f h k z
-[8k] z k x [8j]
-[4x] [etu] [4z] [ety]
-[4x] [hv] [etf] D [4d] [etd] D f
-[1a] [0wr] [ak] [8p] [0we] u o a d
-[1a] d [8a] f [0wp] p a d f
-[4f] [qx] [qz] [ety]
-[4x] [jb] q [lm] [etz] [qd] D f
-[1a] [0wr] [8p] [0we] u o a d
-[8a] d a f p
+[qfx] [etufx] [qdz] [ety]
+[qfx] [jb] [etuf] D [qd] [etyd] D d f
+[8a] [0wra] [8p] [0we] u o a d
+[8a] d [0wra] d f [8p] [0we] p a d f
+[qf] [etufx] [qdz] [ety] s d
+[qfx] [hv] [etu] [jb] f [qdz] [etyd] D f
+[8a] a [0wrd] [8p] [0we] f h k z [8k] z k x [8j]
+[4fx] [etu] [4dz] [ety]
+[4fx] [hv] [etuf] D [4d] [etyd] D f
+[1a] [0wr] [ak] [8j] [0we] u o a d
+[1a] d [8a] d f [0wep] p a d f
+[4f] [qfx] [qdz] [ety]
+[4fx] [jb] q [lm] m m m m m [etydz] [qd] D f
+[1a] [0wr] [8p] [0we] u o a d [8a] d a d f p
 ```
 
 ## Frédéric Chopin - Nocturne in E♭ Major (Op. 9, No. 2)
