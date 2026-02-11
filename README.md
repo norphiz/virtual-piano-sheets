@@ -257,8 +257,8 @@ Transposition +3
 [9wu] I [3o] [7wa] d [2s] [80qa] p [5o] [qr]
 9 [qts] a [5p] [qro] y [9u] [qtl] k [5j] [qrh] d
 [9f] [qts] a [5p] [qro] a [8o] [0rf] d [8a] [0eo]
-9 [qtl] [ak] [5pj] [qroh] [yd] [9uf] [qt] 5 [qr]
-9 [qtl] [ak] [5pj] [qrh] [ak] [8oh] [0r] 8 [0e] 8 [0r] 8 [0e] [80ey]
+9 [qtsl] [ak] [5pj] [qroh] [yd] [9uf] [qt] 5 [qr]
+9 [qtsl] [ak] [5pj] [qroh] [ak] [8oh] [0r] 8 [0e] 8 [0r] 8 [0e] [80ey]
 ```
 
 ## Hiroshi Takaki - Rominisensu
@@ -559,26 +559,27 @@ Transposition -3
 Transposition +3
 
 [8uo] w t s d f [0yo] r u I o a d s h
-[qsh] t i p g f s [qsh] t i O g f [rps] d
+[qpsh] t i p g f s [qpsh] t i O g f [rps] d
 [8uo] w t [us] u o [yad] u o [usf] u o
-[0dh] r u [uo] a d [yah] r f [dk] [qdk] t i s f k
-[tsj] i [wsj] y o s j h [wps] [wad]
-[6os] 0 t u a s [5ad] 0 w [ta] u a
-[5ps] 0 w t a s [4ip] 9 q e p a
-[2is] 9 q e p f [3od] 0 w [ya] a
-[6ps] 0 t r t u [5wy] q E [18E] q t
-[4tp] 8 q [us] t s [30d] 0 W [5af]
-[6us] 0 t u a s [2ip] 9 e y p a
+[0odh] r u [uo] a d [yadh] r f [dk]
+[qyadk] t i s f k [tpsj] i
+[wpsj] y o s j h [wyops] [wupad]
+[6euos] 0 t u a s [50wuad] 0 w [ta] u a
+[50wups] 0 w t a s [4qyip] 9 Q e p a
+[29is] 9 q e p f [30od] 0 w [ya] a
+[6eups] 0 t r t u [5wy] q E [18E] q t
+[4qtp] 8 q [us] t s [30yd] 0 W [50wyaf]
+[6eus] 0 t u a s [29yip] 9 e y p a
 [2is] 6 q e a s [3od] 7 w r s d
-[4OD] 8 W t [pd] [OD] [7ag] q E y a g
-[1fh] 5 0 [fhl] 8 0 [dhz] 5 0 [shlx] 5 0
+[4OD] 8 W t [pd] [Of] [7pag] q E y a g
+[1sh] 5 0 [fhl] 8 0 [dhz] 5 0 [sfhlx] 5 0
 [3adh] 7 w r y o [woa] r y [7o] s [ph]
-[4ph] 8 e 8 [qg] [ef] [4ps] 8 q [to] 8 q
-[5ps] 9 w [ya] s d [5yf] 9 W [yd] 9 W
-[6ps] 0 e [el] k j [wh] u o s
+[4ph] 8 e 8 [qg] [ef] [4ups] 8 q [to] 8 q
+[5yps] 9 w [ya] s d [5yof] 9 W [yd] 9 W
+[6ups] 0 e [el] k j [wh] u o s
 [qsj] t i [pj] k l [0lx] t u [ohl]
 [2tp] 6 q [ep] s g [5sf] 9 q [id]
-[6os] ( W i o s [8os] W T i o s [8os] w t i o s f h l x v m
+[6os] ( W i o s [8ios] W T i o s [8uos] w t i o s [fhlxvm]
 ```
 
 ## ShiZi - The Library
@@ -716,9 +717,9 @@ l g h g a g h g P g h J j h g s
 ```
 Transposition +2
 
-q e t u a s o u [0rp] e r t [0wro] e r t
-q e t u a s o u [0p] t [us] [td] [0ra] e [wo] [9a]
-q e t u a s o u [0rp] e r t [0wro] e r t [9e]
+q e t u a s o u [0erp] e r t [0wro] e r t
+q e t u a s o u [0ep] t [us] [td] [0ra] e [wo] [9a]
+q e t u a s o u [0erp] e r t [0wro] e r t [9e]
 w e t i u t y y 5 9 w t [59wr]
 [3oa] w [ru] [oa] [ru] [oa] [ru] a
 [4to] e [et] [to] [et] [to] [et] o
