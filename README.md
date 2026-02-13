@@ -110,12 +110,18 @@ Transposition +1
 ```
 Transposition +3
 
-o [1f] [0t] [wtu] 8 [qrd] [Wrf] [1d] [0t] [wtu] [7s] [0t] [wtuo] [6f]
-[0T] [wtua] p o p [6j] [0t] [etof] [2h] [9r] [wrt] [2g] [9e] [qyf]
-[5d] [9r] [wri] [%f] [0y] [ryua] [6s] [0t] [etu] [4p] [0t] [etu] [5o]
-[9k] [wtij] [5h] g [9rf] g [wip] a [1s] [0t] [wtu] 8 [0t] [wtu]
+o
+[1f] [0t] [wtu] 8 [qrd] [Wrf]
+[1d] [0t] [wtu] [7s] [0t] [wtuo]
+[6f] [0T] [wtua] p o p [6j] [0t] [etof]
+[2h] [9r] [wrt] [2g] [9e] [qyf]
+[5d] [9r] [wri] [%f] [0y] [ryua]
+[6s] [0t] [etu] [4p] [0t] [etu] [5o]
+[9k] [wtij] [5h] g [9rf] g [wip] a
+[1s] [0t] [wtu] 8 [0t] [wtu]
 [1us] [wo] [5f] [8us] [wo] [5f]
-[1us] [wo] [5f] [8us] [wo] [5f] [80us] [tol] [150t]
+[1us] [wo] [5f] [8us] [wo] [5f]
+[80us] [tol] [150t]
 ```
 
 ## Frédéric Chopin - Waltz in A Minor (Op. Posth, B. 150)
