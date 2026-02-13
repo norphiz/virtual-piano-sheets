@@ -106,39 +106,21 @@ Transposition +1
 [1a] [0wr] [8p] [0we] u o a d [8a] d a d f p
 ```
 
-## Frédéric Chopin - Nocturne in E♭ Major (Op. 9, No. 2)
-```
-Transposition +3
-
-o
-[1f] [0t] [wtu] 8 [qrd] [Wrf]
-[1d] [0t] [wtu] [7s] [0t] [wtuo]
-[6f] [0T] [wtua] p o p [6j] [0t] [etof]
-[2h] [9r] [wrt] [2g] [9e] [qyf]
-[5d] [9r] [wri] [%f] [0y] [ryua]
-[6s] [0t] [etu] [4p] [0t] [etu] [5o]
-[9k] [wtij] [5h] g [9rf] g [wip] a
-[1s] [0t] [wtu] 8 [0t] [wtu]
-[1us] [wo] [5f] [8us] [wo] [5f]
-[1us] [wo] [5f] [8us] [wo] [5f]
-[80us] [tol] [150t]
-```
-
-## Frédéric Chopin - Waltz in A Minor (Op. Posth, B. 150)
+## Frédéric François Chopin - Waltz in A Minor (Op. Posth, B. 150)
 ```
 u
 [6p] a [etus] [etus] [2d] f [eyig] [eyi]
-[5a] s [wrid] j [wrih] g [8f] D [wtuf] [wtu]
+[5a] s [wrid] j [wrih] g f g [8f] D [wtuf] [wtu]
 [6p] a [etus] [etus] [2d] f [eyig] [eyi]
 [5a] s [wrid] j [wrih] a [8s] [wtu]
 u
 [6p] a [etus] [etus] [2d] f [eyig] [eyi]
-[5a] s [wrid] j [wrih] g [8f] D [wtuf] [wtu]
-[6s] d [etuf] [etuf] [2g] h [eyj] [eyi]
+[5a] s [wrid] j [wrih] g f g [8f] D [wtuf] [wtu]
+[6s] d [etuf] [etuf] [2g] h [eyij] [eyi]
 [5h] [wriG] h [wriz] g [8f] [wtu] [wtu]
 ```
 
-## Frédéric Chopin - Waltz in A♭ Major (Op. 69, No. 1)
+## Frédéric François Chopin - Waltz in A♭ Major (Op. 69, No. 1)
 ```
 Transposition -4
 
