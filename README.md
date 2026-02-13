@@ -459,7 +459,8 @@ Transposition -5
 [yh] [ip] d j [rh] [yo] g f d [td] [uo] [ef] [tu]
 [yh] [ip] d j [rh] [yo] [th] [uo] s l [eh] [tu] f g
 [yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
-[9d] [yipg] [yipj] [7k] [ryo] h [ryod] [8f] [tuoh] [tuok] [6l] [tuo] [tuo]
+[9d] [yipg] [yipj] [7k] [ryo] h [ryod]
+[8f] [tuoh] [tuok] [6l] [tuo] [tuo]
 [9d] [yipg] [8j] [7k] [ryo] h [ryod] [^f] [ruo] [ryog] [etoh]
 [yh] [ip] d j [rh] [yo] [th] [uo] s l [eh] [tu]
 [yh] [ip] d [tj] [rh] [yo] g f d [td] [io] [io] [uos]
