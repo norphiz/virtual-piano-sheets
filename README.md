@@ -571,7 +571,7 @@ Transposition +3
 [4qtp] 8 q [us] t s [30yd] 0 W [50wyaf]
 [6eus] 0 t u a s [29yip] 9 e y p a
 [2is] 6 q e a s [3od] 7 w r s d
-[4OD] 8 W t [pd] [Of] [7pag] q E y a g
+[4OD] 8 W t [pd] [OD] [7pag] q E y a g
 [1sh] 5 0 [fhl] 8 0 [dhz] 5 0 [sfhlx] 5 0
 [3adh] 7 w r y o [woa] r y [7o] s [ph]
 [4ph] 8 e 8 [qg] [ef] [4ups] 8 q [to] 8 q
