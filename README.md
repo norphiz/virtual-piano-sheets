@@ -426,7 +426,7 @@ Transposition +2
 [0ruo] [rO] [59eyo] [pj] [ak]
 [6jl] [0jl] [tdz] [0sl] [5hk] 0 [ruf] [0oh]
 [4fj] [8fj] [eoh] [0ig] [3dh] 8 w [oh]
-[0oh] [wig] [tig] [wYO] [9ig] q [toh] [qOH]
+[0oh] [wig] [tig] [wYD] [9ig] q [toh] [qOH]
 [(PJ] [qOH] [EOH] [qoh] [8OH] 0 [roh] [OH] 0 [PJ]
 [4jl] 8 W 8 @ 8 [wOH] [8PJ] [2jl] 9 q W t
 [esl] [qak] [esl] [5dz] 9 w r y h l k [qerul]
