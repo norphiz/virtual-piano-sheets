@@ -292,15 +292,14 @@ Transposition -5
 ```
 Transposition -5
 
-[18] s d [8tf] h g [6eg] j h [30h] l k
-[6el] h f [6s] d f [29g] h j [30h] g f
-[4qd] f s [5wa] s d [7ro] a d [5wg] f d
-[8tf] s d [6tf] h g [4qg] j h [30h] l k
-[6el] h f [5ws] d f [4qp] h g [4f] d s
+[18] s d [8tf] h g [6eg] j h [30h] l k [6el] h f
+[6s] d f [29g] h j [30h] g f [4qd] f s [5wa] s d
+[7ro] a d [5wg] f d [8tf] s d [6tf] h g [4qg] j h
+[30h] l k [6el] h f [5ws] d f [4qp] h g [$Qf] d s
 [5wo] s a [18s] f h l h [tf] [ws] f [0h]
-[8wl] [7r] [6eg] [7rh] [6es] [5wh] [6eg]
-[7rd] [8tf] [5wd] o p [wya] d [wes] [wrd] g
-[5wf] [5g] d a [ro] a [wod] [wyg] f [5wd] [8uf]
+[8wl] [7r] [6eg] [7rh] [6es] [5wh] [6eg] [7rd] [8tf]
+[5wd] o p [wya] d [wes] [wrd] g [5wf] [5g] d a [ro] a
+[wod] [wyg] f [5wd] [8uf]
 ```
 
 ## Johann Sebastian Bach - Aria (Goldberg Variations)
