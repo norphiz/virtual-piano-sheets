@@ -288,7 +288,7 @@ Transposition -5
 [tys] e [qp] e [ra] w 0 w [ets] w [0f] w [etf] w 0 w [rd] w 0 w
 ```
 
-## Johann Sebastian Bach - Jesu, Joy of Man's Desiring
+## Johann Sebastian Bach - Jesus bleibet meine Freude
 ```
 Transposition -5
 
