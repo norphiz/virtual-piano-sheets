@@ -110,12 +110,12 @@ Transposition +1
 ```
 u
 [6p] a [etus] [etus] [2d] f [eyig] [eyi]
-[5a] s [wrid] j [wrih] g f g [8f] D [wtuf] [wtu]
+[5a] s [wrid] j [wrih] g [8f] D [wtuf] [wtu]
 [6p] a [etus] [etus] [2d] f [eyig] [eyi]
 [5a] s [wrid] j [wrih] a [8s] [wtu]
 u
 [6p] a [etus] [etus] [2d] f [eyig] [eyi]
-[5a] s [wrid] j [wrih] g f g [8f] D [wtuf] [wtu]
+[5a] s [wrid] j [wrih] g [8f] D [wtuf] [wtu]
 [6s] d [etuf] [etuf] [2g] h [eyij] [eyi]
 [5h] [wriG] h [wriz] g [8f] [wtu] [wtu]
 ```
