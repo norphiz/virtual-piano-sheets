@@ -609,7 +609,7 @@ o [9p] e a t s [wyia] o [eya] p [60yp] p S f j
 [wuf] t [ud] t [eos] t [uo] t [9ip] e [td] [woa] [eps] [rad] z
 [8sfl] w t [9sgl] [eak] [tsl] [dz] [0rfhx] [wrdgz] [etsfl] [sl] [ak]
 [9pgj] e [tdz] [0ahk] r y [rak] [qsjl] t [ohv] [whv] y [igc] [8gc]
-[wfx] [tsl] [toh] [eig] [wuf] [qts] [8wo] 1 5 8 0 t u s
+[wfx] [tsl] [toh] [eig] [wuf] [qts] [8wo] [1580tus]
 ```
 
 ## Takeshi Watanabe - Warm Feelings
@@ -648,7 +648,7 @@ q e t o e t y s a o t y t
 8 w t y w t y 0 w t y w t y
 ( w t y o y t ( w t [9y] o w t
 8 w t y w t o 0 w t o i u t
-( w t y w t y 9 t y [5to]
+( w t y w t y 9 t y [5tio]
 [8o] w t [yh] t w [0d] r y o y r
 [0s] E [uh] E ( [9o] e t y w 5 9 w
 [8o] w t [ys] w [0h] t [yj] t y
